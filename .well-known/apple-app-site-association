@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "BETL4RUB6C.iptv.MEIOSAPP",
+        "paths": [
+          "/meios/*",
+          "/meios?*"
+        ],
+        "components": [
+          {
+            "/": "/meios/*",
+            "comment": "Rutas de deep link para noticias y podcasts"
+          }
+        ]
+      }
+    ]
+  }
+}
