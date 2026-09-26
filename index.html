@@ -28,52 +28,80 @@
     }
     h2 {
       margin-top: 0;
-      font-size: 19px;
+      font-size: 20px;
       color: #1c1c1e;
     }
     p {
       font-size: 14px;
       color: #636366;
       line-height: 1.4;
+      margin-bottom: 20px;
     }
-    .btn {
-      display: inline-block;
-      margin-top: 15px;
-      padding: 12px 20px;
-      background: #8b5cf6;
+    .btn-open {
+      display: block;
+      width: 100%;
+      padding: 14px 0;
+      background: #007aff;
       color: white;
       text-decoration: none;
-      border-radius: 12px;
+      border-radius: 14px;
       font-weight: 600;
-      font-size: 15px;
+      font-size: 16px;
+      margin-bottom: 12px;
+      box-sizing: border-box;
+    }
+    .btn-store {
+      display: block;
+      width: 100%;
+      padding: 12px 0;
+      background: #f2f2f7;
+      color: #1c1c1e;
+      text-decoration: none;
+      border-radius: 14px;
+      font-weight: 500;
+      font-size: 14px;
+      box-sizing: border-box;
     }
   </style>
 </head>
 <body>
   <div class="card">
-    <h2>Abriendo en la app...</h2>
-    <p>Si no se abre automáticamente en Manzanas Enfrentadas, puedes instalarla en la App Store.</p>
-    <a id="storeLink" class="btn" href="https://apps.apple.com/es/app/manzanas-enfrentadas-the-app/id6747011620">Descargar en App Store</a>
+    <h2>Abriendo en la App...</h2>
+    <p>Toca el botón si no se abre automáticamente.</p>
+    <a id="btnOpen" class="btn-open" href="#">Abrir en Manzanas Enfrentadas</a>
+    <a id="btnStore" class="btn-store" href="https://apps.apple.com/es/app/manzanas-enfrentadas-the-app/id6747011620">Descargar en App Store</a>
   </div>
 
   <script>
+    // Extraer parámetros soportando posibles barras finales
+    const searchString = window.location.search || window.location.hash.replace('#', '?');
+    const params = new URLSearchParams(searchString);
     const appStoreURL = "https://apps.apple.com/es/app/manzanas-enfrentadas-the-app/id6747011620";
-    const params = new URLSearchParams(window.location.search);
     
     let deepLink = "meiosapp://noticias";
-    if (params.has("podcast")) {
-      deepLink = `meiosapp://podcast?id=${params.get("podcast")}`;
+
+    if (params.has("podcast") || params.has("id")) {
+      const id = params.get("podcast") || params.get("id");
+      deepLink = "meiosapp://podcast?id=" + encodeURIComponent(id);
     } else if (params.has("noticia")) {
-      deepLink = `meiosapp://noticias?id=${params.get("noticia")}`;
+      const id = params.get("noticia");
+      deepLink = "meiosapp://noticias?id=" + encodeURIComponent(id);
     }
 
-    // 1. Intentar abrir la app instalada
-    window.location.href = deepLink;
+    // Configurar enlace del botón principal
+    const btnOpen = document.getElementById("btnOpen");
+    btnOpen.href = deepLink;
 
-    // 2. Si pasados 2 segundos sigue en la web, saltar a la App Store
+    // 1. Intento de apertura automática inmediata
+    window.location.replace(deepLink);
+
+    // 2. Si pasados 2.5s no ha cambiado de app, preparar redirección a App Store
     setTimeout(function() {
-      window.location.href = appStoreURL;
-    }, 2000);
+      // Si el usuario sigue viendo la página web:
+      if (!document.hidden) {
+        window.location.href = appStoreURL;
+      }
+    }, 2500);
   </script>
 </body>
 </html>
