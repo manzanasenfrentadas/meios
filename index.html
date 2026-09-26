@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manzanas Enfrentadas</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f2f2f7;
+      text-align: center;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .card {
+      background: white;
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+      max-width: 340px;
+      width: 100%;
+    }
+    h2 {
+      margin-top: 0;
+      font-size: 19px;
+      color: #1c1c1e;
+    }
+    p {
+      font-size: 14px;
+      color: #636366;
+      line-height: 1.4;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 12px 20px;
+      background: #8b5cf6;
+      color: white;
+      text-decoration: none;
+      border-radius: 12px;
+      font-weight: 600;
+      font-size: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>Abriendo en la app...</h2>
+    <p>Si no se abre automáticamente en Manzanas Enfrentadas, puedes instalarla en la App Store.</p>
+    <a id="storeLink" class="btn" href="https://apps.apple.com/es/app/manzanas-enfrentadas-the-app/id6747011620">Descargar en App Store</a>
+  </div>
+
+  <script>
+    const appStoreURL = "https://apps.apple.com/es/app/manzanas-enfrentadas-the-app/id6747011620";
+    const params = new URLSearchParams(window.location.search);
+    
+    let deepLink = "meiosapp://noticias";
+    if (params.has("podcast")) {
+      deepLink = `meiosapp://podcast?id=${params.get("podcast")}`;
+    } else if (params.has("noticia")) {
+      deepLink = `meiosapp://noticias?id=${params.get("noticia")}`;
+    }
+
+    // 1. Intentar abrir la app instalada
+    window.location.href = deepLink;
+
+    // 2. Si pasados 2 segundos sigue en la web, saltar a la App Store
+    setTimeout(function() {
+      window.location.href = appStoreURL;
+    }, 2000);
+  </script>
+</body>
+</html>
