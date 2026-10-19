@@ -73,31 +73,42 @@
   </div>
 
   <script>
-    // Extraer parámetros soportando posibles barras finales
     const searchString = window.location.search || window.location.hash.replace('#', '?');
     const params = new URLSearchParams(searchString);
     const appStoreURL = "https://apps.apple.com/es/app/manzanas-enfrentadas-the-app/id6747011620";
     
     let deepLink = "meiosapp://noticias";
 
-    if (params.has("podcast") || params.has("id")) {
-      const id = params.get("podcast") || params.get("id");
-      deepLink = "meiosapp://podcast?id=" + encodeURIComponent(id);
-    } else if (params.has("noticia")) {
-      const id = params.get("noticia");
-      deepLink = "meiosapp://noticias?id=" + encodeURIComponent(id);
+    const isStudio = params.has("studio_session") || params.has("session_id") || params.get("action") === "staff_attendance";
+    const commentID = params.get("comment_id") || params.get("commentid");
+    const openComments = params.get("comments") === "true" || !!commentID;
+
+    if (isStudio) {
+      const sid = params.get("studio_session") || params.get("session_id") || params.get("id") || "";
+      const action = params.get("action") || "staff_attendance";
+      deepLink = "meiosapp://studio?session_id=" + encodeURIComponent(sid) + "&action=" + encodeURIComponent(action);
+    } else if (params.has("podcast")) {
+      const id = params.get("podcast") || params.get("id") || "";
+      let url = "meiosapp://podcast?id=" + encodeURIComponent(id);
+      if (openComments) url += "&comments=true";
+      if (commentID) url += "&comment_id=" + encodeURIComponent(commentID);
+      deepLink = url;
+    } else if (params.has("noticia") || params.has("id")) {
+      const id = params.get("noticia") || params.get("id") || "";
+      let url = "meiosapp://noticias?id=" + encodeURIComponent(id);
+      if (openComments) url += "&comments=true";
+      if (commentID) url += "&comment_id=" + encodeURIComponent(commentID);
+      deepLink = url;
     }
 
-    // Configurar enlace del botón principal
     const btnOpen = document.getElementById("btnOpen");
     btnOpen.href = deepLink;
 
-    // 1. Intento de apertura automática inmediata
+    // Intento de apertura automática inmediata en la app
     window.location.replace(deepLink);
 
-    // 2. Si pasados 2.5s no ha cambiado de app, preparar redirección a App Store
+    // Si pasados 2.5s sigue en el navegador, preparar enlace a App Store
     setTimeout(function() {
-      // Si el usuario sigue viendo la página web:
       if (!document.hidden) {
         window.location.href = appStoreURL;
       }
