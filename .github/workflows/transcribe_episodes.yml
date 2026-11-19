@@ -1,0 +1,46 @@
+name: Transcripción Automática de Podcasts con Whisper
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: ⚙️ Instalar dependencias
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install --upgrade pip
+          pip install faster-whisper
+
+      - name: 🎙️ Ejecutar transcripción de episodios
+        run: |
+          python transcribe_episodes.py
+
+      - name: 🚀 Publicar transcripciones en GitHub Pages
+        run: |
+          git config --global user.name "MEIOS Podcast Transcriber"
+          git config --global user.email "bot@manzanasenfrentadas.es"
+          git add transcripts/
+          if git diff --staged --quiet; then
+            echo "No hay nuevas transcripciones para subir."
+          else
+            git commit -m "🎙️ Nuevas transcripciones automáticas generadas con Whisper [skip ci]"
+            git push
+          fi
