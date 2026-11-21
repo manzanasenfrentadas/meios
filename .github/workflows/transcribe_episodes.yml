@@ -2,7 +2,8 @@ name: Transcripción Automática de Podcasts con Whisper
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    # Se ejecuta automáticamente cada hora para detectar nuevos episodios al instante
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -28,7 +29,7 @@ jobs:
           pip install --upgrade pip
           pip install faster-whisper
 
-      - name: 🎙️ Ejecutar transcripción de episodios
+      - name: 🎙️ Ejecutar transcripción de episodios pendientes
         run: |
           python transcribe_episodes.py
 
