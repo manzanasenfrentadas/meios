@@ -7,6 +7,8 @@ import tempfile
 RSS_URL = "https://anchor.fm/s/212aa0c8/podcast/rss"
 OUTPUT_DIR = "transcripts"
 MODEL_NAME = os.getenv("WHISPER_MODEL", "base")
+# Procesa hasta 4 episodios pendientes por ejecución
+BATCH_LIMIT = int(os.getenv("BATCH_LIMIT", "4"))
 
 def format_timestamp(seconds: float) -> str:
     total_ms = int(round(seconds * 1000))
@@ -62,20 +64,24 @@ def transcribe_audio(audio_path: str, output_vtt_path: str):
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     items = fetch_rss_items()
-    print(f"📋 Episodios en el feed: {len(items)}")
+    print(f"📋 Total de episodios en el feed: {len(items)}")
 
+    # Buscar en todo el feed los episodios que aún NO tengan transcripción
     to_process = []
-    for item in items[:3]:
+    for item in items:
         vtt_path = os.path.join(OUTPUT_DIR, f"{item['guid'].lower()}.vtt")
         if not os.path.exists(vtt_path):
             to_process.append((item, vtt_path))
+            if len(to_process) >= BATCH_LIMIT:
+                break
 
     if not to_process:
-        print("🎉 Todo al día.")
+        print("🎉 Todos los episodios recientes ya están transcritos. Nada pendiente.")
         return
 
+    print(f"🚀 Episodios a transcribir en esta tanda: {len(to_process)}")
     for item, vtt_path in to_process:
-        print(f"\n--- Transcribiendo: {item['title']} ---")
+        print(f"\n--- 🎙️ Procesando: {item['title']} ({item['guid']}) ---")
         with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as temp_audio:
             temp_path = temp_audio.name
 
@@ -85,6 +91,8 @@ def main():
                 out_f.write(resp.read())
 
             transcribe_audio(temp_path, vtt_path)
+        except Exception as e:
+            print(f"❌ Error al procesar {item['title']}: {e}")
         finally:
             if os.path.exists(temp_path):
                 os.remove(temp_path)
