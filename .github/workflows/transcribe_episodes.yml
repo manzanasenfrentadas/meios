@@ -2,8 +2,16 @@ name: Transcripción Automática de Podcasts con Whisper
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada hora para detectar nuevos episodios al instante
-    - cron: '0 * * * *'
+    # Lunes a Sábado a las 06:05h (05:05 UTC) justo cuando sale el podcast
+    - cron: '5 5 * * 1-6'
+    # Lunes a Sábado a las 06:30h (05:30 UTC) por si se retrasa la publicación
+    - cron: '30 5 * * 1-6'
+    # Domingos a las 19:05h (18:05 UTC) justo cuando sale el podcast
+    - cron: '5 18 * * 0'
+    # Domingos a las 19:30h (18:30 UTC) de seguridad
+    - cron: '30 18 * * 0'
+    # Pasadas adicionales para avanzar episodios antiguos hacia atrás
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
 
 permissions:
