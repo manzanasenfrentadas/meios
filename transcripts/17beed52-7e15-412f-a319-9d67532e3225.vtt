@@ -1,0 +1,430 @@
+WEBVTT - Manzanas Enfrentadas Transcripción Oficial
+
+1
+00:00:00.000 --> 00:00:27.040
+Muy buenas, yo soy Alberium Dic Mac para los amigos y hoy os doy la bienvenida al
+
+2
+00:00:27.040 --> 00:00:36.600
+Nazan así informadas número 487 de este lunes 16 de noviembre de 2000 26. Arrancamos una
+
+3
+00:00:36.600 --> 00:00:41.560
+nueva semana con tres noticias que nos llevan por caminos bastante diferentes, dentro
+
+4
+00:00:41.560 --> 00:00:46.920
+eso sí, del universo de Apple. Vamos a hablar de una función que podría hacer que Apple Maps
+
+5
+00:00:46.920 --> 00:00:51.800
+fue un poquito más inteligente en nuestros desplazamientos, después nos mediremos en las
+
+6
+00:00:51.800 --> 00:00:58.360
+entrañas en teapel silicon y terminaremos con una batalla que no parece tener fin la de Apple
+
+7
+00:00:58.360 --> 00:01:03.560
+contra Epic, que vuelve a dejarnos novedades importantes en los tribunales de los Estados Unidos.
+
+8
+00:01:03.560 --> 00:01:09.200
+Y antes de despedirnos os dejaré una pregunta que dará bastante que hablar en nuestro próximo
+
+9
+00:01:09.200 --> 00:01:16.760
+manzanas enfrentadas ronguan. Arrancamos. Y es que la primera noticia del día de hoy estoy
+
+10
+00:01:16.760 --> 00:01:21.920
+seguro que nos ha podido pasar alguna vez. Por ahí es una dirección a Apple Maps con
+
+11
+00:01:21.920 --> 00:01:27.120
+Usultation. ¿Cuánto tardaréis en llegar y la aplicación os dice que estaréis? Y por ejemplo
+
+12
+00:01:27.120 --> 00:01:32.280
+a las 6 de la tarde, pero resulta que cuando llegáis a vuestro destino empiezan a segunda aventura,
+
+13
+00:01:32.280 --> 00:01:39.240
+encontrar aparcamento. 5 minutos dando vueltas, otros 3 buscando una plaza y cuando finalmente
+
+14
+00:01:39.240 --> 00:01:44.600
+aparcais, todavía os queda caminar hasta el lugar que realmente queréis ir. Total que aquí
+
+15
+00:01:44.600 --> 00:01:51.160
+ha llegado a prevista para la 6, acabo convirtiéndose en la 6.4. Pues bien, parece que Apple quiere
+
+16
+00:01:51.160 --> 00:01:57.720
+solucionar precisamente ese problema. Según ha indicado Matt Rumor, su investigador del código de iOS
+
+17
+00:01:57.720 --> 00:02:04.640
+conocido como pdfu, han encontrado referencias a una nueva función denominada Ten to Park en la
+
+18
+00:02:04.640 --> 00:02:13.600
+beta de iOS 27.3. ¿Y qué hace exactamente? Pues que el sistema podría analizar cuánto tiempo pasamos
+
+19
+00:02:13.600 --> 00:02:19.120
+cerca de nuestro destino antes de conseguir aparcar, y cuánto tiempo tardaremos después y
+
+20
+00:02:19.120 --> 00:02:24.680
+en llegar caminando hasta el lugar indicado. Lo interesante es que podría utilizar esta información
+
+21
+00:02:24.680 --> 00:02:30.520
+de localización y de movimiento recoplido al segundo plano para aprender de nuestros desplazamientos
+
+22
+00:02:30.520 --> 00:02:37.840
+anteriores. Además, los datos servirían por días de la semana y franjas horarias, algo que
+
+23
+00:02:37.840 --> 00:02:43.360
+tiene mucho sentido. Porque encontrar aparcamento un domingo por la mañana no es exactamente lo mismo
+
+24
+00:02:43.360 --> 00:02:49.160
+que intentarlo un viernes a la 7 de la tarde, en verdad dentro de la ciudad. Así que tiene muy
+
+25
+00:02:49.160 --> 00:02:54.600
+buena pinta esta posible nueva función, y estoy esperando que la desarrollan y la implementen para
+
+26
+00:02:54.600 --> 00:03:01.760
+poderla poner en práctica. Veremos hacia donde va este rumor. Vamos a la segunda noticia del día de
+
+27
+00:03:01.760 --> 00:03:07.840
+hoy y pesamos de algo tan cotidiano con buscar aparcamento. A una tecnología que probablemente nunca
+
+28
+00:03:07.840 --> 00:03:14.920
+tendremos delante de nuestros ojos, pero que podría ser fundamental para el futuro de Apple Intelligence.
+
+29
+00:03:14.920 --> 00:03:21.480
+Y no es otra cosa que Project Valtra, el proyecto con el que Apple está desarrollando por
+
+30
+00:03:21.480 --> 00:03:28.640
+procesadores específicos para sus centros de datos. Y atención a las cifras que se están manejando,
+
+31
+00:03:28.640 --> 00:03:35.520
+porque son verdaderamente impresionantes. La información publicada originalmente por Bloomberg y
+
+32
+00:03:35.520 --> 00:03:42.440
+recogida por MacRumors en mayo de 2025 explicaba que Apple estaba estudiando diferentes
+
+33
+00:03:42.440 --> 00:03:49.640
+configuraciones de procesamiento, con capacidades que podían duplicar, cuadro y plicar e incluso
+
+34
+00:03:49.640 --> 00:03:58.560
+multiplicar por 8 las del potente M3 Ultra. Para ponerlo en perspectiva de M3 Ultra más avanzado
+
+35
+00:03:58.560 --> 00:04:06.600
+dispone de 32 núcleos de CPU y 80 núcleos gráficos. Si multiplicamos esas cantidades por 8, el resultado
+
+36
+00:04:06.600 --> 00:04:15.920
+sería una configuración equivalente a aproximadamente 256 núcleos de CPU y 640 núcleos de GPU. Una
+
+37
+00:04:15.920 --> 00:04:22.440
+auténtica barbaridad. Y por deslacia todavía no podemos decir que Apple haya fabricado un único
+
+38
+00:04:22.440 --> 00:04:27.880
+chip con todos esos núcleos. Estamos hablando de equivalencias de capacidad de procesamiento,
+
+39
+00:04:27.880 --> 00:04:33.320
+que podrían conseguirse combinando diferentes procesadores. Y lo mejor de todo esto es que
+
+40
+00:04:33.320 --> 00:04:39.040
+todavía no tenemos manera de saber si estas son las especificaciones definitivas para váltra.
+
+41
+00:04:39.040 --> 00:04:47.320
+Y lo más interesante. ¿Por qué Apple necesita semejante potencial? Pues porque hay determinadas
+
+42
+00:04:47.320 --> 00:04:52.720
+tareas de inteligencia artificial que son demasiado exigentes para ejecutarlas completamente nuestro
+
+43
+00:04:52.720 --> 00:04:58.680
+iPhone, iPad o Mac. Cuando eso ocurre parte del procesamiento puede trasladarse a los servidores
+
+44
+00:04:58.680 --> 00:05:05.480
+de Apple mediante su arquitectura para iBite Cloud Compute. Y cuantos más usuarios utilicen Apple
+
+45
+00:05:05.480 --> 00:05:11.480
+Intelligence y cuanto más complejas sean sus funciones, mayor será la capacidad de procesamiento necesaria
+
+46
+00:05:11.480 --> 00:05:19.760
+en esos centros de datos. Y ahí es donde entra VALTRA. Porque Apple ya lleva años demostrando que
+
+47
+00:05:19.760 --> 00:05:25.800
+puede desarrollar procesadores extraordinariamente eficientes para sus dispositivos. Pero fabricar chips
+
+48
+00:05:25.800 --> 00:05:30.520
+para ordenadores personales y diseñar una infraestructura que atina millones de veticiones para
+
+49
+00:05:30.520 --> 00:05:37.760
+inteligencia artificial son desafíos bastante diferentes. Para afrontar todo este reto,
+
+50
+00:05:37.760 --> 00:05:43.760
+Apple también ha colaborado con el Broadcom, una compañía especializada en tecnologías de comunicación
+
+51
+00:05:43.760 --> 00:05:50.840
+e interconexión entre chips. Y es que no basta con tener muchos procesadores, también es imprescindible
+
+52
+00:05:50.840 --> 00:05:57.640
+conseguir que intercambian información de forma rápida y eficiente, pero tampoco todo son buenas
+
+53
+00:05:57.640 --> 00:06:01.920
+noticias para Apple. Las informaciones conocidas antes de 2026,
+
+54
+00:06:01.920 --> 00:06:07.720
+han apuntado a dificultades y retrasos en el desarrollo de su nueva infraestructura de servidores,
+
+55
+00:06:07.720 --> 00:06:14.400
+así que todavía falta por ver cuánto podrá desplegar estas soluciones a gran escala. Y a mí me
+
+56
+00:06:14.400 --> 00:06:19.240
+surge una reflexión. Quizá una de las batallas tecnológicas más importantes de los próximos años
+
+57
+00:06:19.240 --> 00:06:26.240
+no se libre en nuestros iPhones, sino en esos enormes centros de datos que trabajan silenciosamente
+
+58
+00:06:26.240 --> 00:06:32.680
+para nosotros. Y ahora vamos con la tercera hiper última noticia el día de hoy con una historia que
+
+59
+00:06:32.680 --> 00:06:38.160
+lleva más de seis años dando que hablar y que sinceramente parece estar muy lejos de poder
+
+60
+00:06:38.160 --> 00:06:44.680
+terminar. Apple contra Epic Games, la batalla por las normas, los pagos y las comisiones de la
+
+61
+00:06:44.680 --> 00:06:50.960
+App Store. La última novedad llegó el pasado viernes 13 de noviembre mientras estábamos grabando
+
+62
+00:06:50.960 --> 00:06:57.520
+en directo nuestros mazanas enfrentadas. Epic Games presentó formalmente su respuesta ante el
+
+63
+00:06:57.640 --> 00:07:03.240
+Tribunal Supremo de Estados Unidos al que ha pedido que mantenga la declaración de desacato civil
+
+64
+00:07:03.240 --> 00:07:09.280
+contra Apple por incumplir una orden judicial relacionada con los sistemas de pagos externos.
+
+65
+00:07:09.280 --> 00:07:14.000
+Pero vamos a poner un poquito de contexto porque esta historia tiene ya mucho recorrido.
+
+66
+00:07:14.000 --> 00:07:20.480
+Todo esto empieza en 2020. Cuando Epic Games, la compañía responsable de Fortnite incorporó a su
+
+67
+00:07:20.480 --> 00:07:25.920
+popular videojuego un sistema de pago que evitaba las comisiones de la App Store. Apple respondió
+
+68
+00:07:25.920 --> 00:07:31.920
+retirando Fortnite de su tienda y aquello desangado en una batalla judicial que todavía continúa.
+
+69
+00:07:31.920 --> 00:07:37.920
+Con el paso del tiempo los tribunales estadounidenses determinaron que Apple no podía impedir que los
+
+70
+00:07:37.920 --> 00:07:43.220
+desarrolladores dirigieran a sus usuarios hacia métodos de pago alternativos fuera de sus
+
+71
+00:07:43.220 --> 00:07:48.840
+aplicaciones. La cuestión es que Apple permitió sus enlaces, pero introdujo nuevas condiciones.
+
+72
+00:07:48.840 --> 00:07:55.120
+Entre ellas una comisión que podía alcanzar el 27% sobre determinadas compras
+
+73
+00:07:55.120 --> 00:08:02.480
+realizadas mediante esos sistemas externos. Y claro, Epic Games consideró que hay una manera de
+
+74
+00:08:02.480 --> 00:08:07.920
+mantener prácticamente el mismo control económico que había antes. Los tribunales acabaron
+
+75
+00:08:07.920 --> 00:08:13.120
+declarando Apple en desacato civil a considerar que había incumplido la orden original.
+
+76
+00:08:13.120 --> 00:08:19.400
+Apple no está de acuerdo con esa intercretación. La compañía decinda que la orden judicial no prohibía
+
+77
+00:08:19.400 --> 00:08:24.600
+expresamente cobrar comisiones sobre las compras externas y que no se le puedes funcionar por incumplir
+
+78
+00:08:24.600 --> 00:08:31.400
+una restricción que, según su argumento, no estaba claramente especificada. Epic por su parte
+
+79
+00:08:31.400 --> 00:08:36.960
+sostiene que Apple diseñó deliberadamente nuevas reglas para conseguir el mismo efecto que las
+
+80
+00:08:36.960 --> 00:08:42.560
+prácticas que el tribunal habría prohibido. Y aquí está el verdadero fondo del asunto.
+
+81
+00:08:42.560 --> 00:08:48.800
+Puedo una empresa cumplir formalmente una orden judicial, pero establecer nuevas condiciones
+
+82
+00:08:48.800 --> 00:08:55.280
+que en la práctica dificulten conseguir el objetivo de esa misma orden, pues esa es una de las
+
+83
+00:08:55.280 --> 00:09:00.720
+grandes cuestiones que ahora tendrá que examinar el tribunal supremo. Según el calendario judicial
+
+84
+00:09:00.720 --> 00:09:06.400
+conocido, Apple tiene hasta el 14 de diciembre para presentar su último escrito y los argumentos
+
+85
+00:09:06.400 --> 00:09:15.680
+orales están previstos para el 11 de enero de 2027. Por tanto, no, no tenemos una resolución definitiva.
+
+86
+00:09:16.160 --> 00:09:22.200
+Y aunque el caso se está desarrollando en Estados Unidos, su importancia va mucho más allá de Fortnite,
+
+87
+00:09:22.200 --> 00:09:29.000
+porque lo que está en discusiones hasta donde llega la capacidad de Apple para imponer sus condiciones
+
+88
+00:09:29.000 --> 00:09:37.080
+económicas dentro de su propio sistema. Y antes de irnos y antes de despedirme, quiero dejaros
+
+89
+00:09:37.080 --> 00:09:43.960
+una pregunta. Apple presenta nuevos productos, nuevas funciones y tecnologías que prometen cambiar
+
+90
+00:09:43.960 --> 00:09:49.520
+nuestra mandada y utilizarlos. Pero hay algo que quizás no nos planteamos lo suficiente.
+
+91
+00:09:49.520 --> 00:09:56.240
+¿Cuánto tiempo tenemos que esperar en España para poder aprovechar realmente todo el potencial
+
+92
+00:09:56.240 --> 00:10:02.200
+de los nuevos productos de Apple? Porque una cosa es comprar un dispositivo el día de su lanzamiento
+
+93
+00:10:02.200 --> 00:10:10.480
+y otra muy distinta es poder disfrutar de todo aquello que Apple nos ha prometido. Pues precisamente de
+
+94
+00:10:10.480 --> 00:10:15.920
+eso vamos a hablar en nuestro próximo manzanas enfrentadas Ronwant, el mero para los amigos.
+
+95
+00:10:15.920 --> 00:10:21.960
+Un tema que puede dar bastante que habla y en el que seguramente no todos estaremos de acuerdo.
+
+96
+00:10:22.760 --> 00:10:28.960
+Como siempre, nuestros escritores Prime podrán seguirlo en directo y el resto podréis escucharlo
+
+97
+00:10:28.960 --> 00:10:32.000
+el sábado. Ahí os dejo la pregunta.
+
+98
+00:10:33.760 --> 00:10:38.600
+Voy hasta aquí en manzanas informadas del día de hoy. Si os ha gustado, compartidlo con vuestros
+
+99
+00:10:38.600 --> 00:10:43.800
+amigos, familiares y con todas aquellas personas a las que les gusta estar al día de lo último en
+
+100
+00:10:43.800 --> 00:10:50.200
+tecnología. Y hacerles saber que en manzanas enfrentadas mantenemos nuestro compromiso de 7 de 7
+
+101
+00:10:50.200 --> 00:10:56.920
+desde enero de 2020. Seguidnos en nuestras redes sociales participate en nuestra comunidad de
+
+102
+00:10:56.920 --> 00:11:02.200
+Telegram y apoyarnos con vuestra suscripción de Amazon Prime a través de Twitch. Para vosotros,
+
+103
+00:11:02.200 --> 00:11:08.360
+si tenéis Prime y vinculáis vuestra cuenta, no supone ningún costa adicional. Y para nosotros
+
+104
+00:11:08.360 --> 00:11:14.520
+es una ayuda enorme para seguir adelante una semana más. No sólo viéis tampoco de descargar la
+
+105
+00:11:14.520 --> 00:11:19.480
+aplicación de manzanas enfrentadas desde el app store y mañana martes os espera la maravillosa
+
+106
+00:11:19.480 --> 00:11:25.160
+y a terciepilada voz de Cristila Orellana que os acompañará en una nueva entrega de manzanas
+
+107
+00:11:25.160 --> 00:11:30.760
+informadas. Ya os sabéis, yo soy Albert Yambrick, Mac para los amigos y nos vemos la próxima semana.
+

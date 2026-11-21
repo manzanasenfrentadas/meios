@@ -1,0 +1,1390 @@
+WEBVTT - Manzanas Enfrentadas Transcripción Oficial
+
+1
+00:00:00.000 --> 00:00:29.960
+¡Bienvenidos a RONWON!, de Manzana,
+
+2
+00:00:29.960 --> 00:00:37.600
+enfrentadas y hoy vamos a hablar sobre las switch 2 en nuestro Mac, ¿cómo es posible?
+
+3
+00:00:39.080 --> 00:00:45.040
+Bueno pues como posible es posible lo que nos sabemos es bueno sí vamos a intentar en este
+
+4
+00:00:45.040 --> 00:00:50.840
+ron-guan explicar por qué si es que no lo sabes si es que estás enterado o si es que realmente ahora
+
+5
+00:00:50.840 --> 00:00:55.120
+mismo estás dentro de una cueva no estás en el grupo de tres grandes manzanas enfrentadas o
+
+6
+00:00:55.120 --> 00:01:01.120
+directamente pues pasas de este tipo de ports en el cual están llegando gracias a la
+
+7
+00:01:01.120 --> 00:01:05.840
+inteligencia artificial y a muchos trabajos y a proyectos de github a saber que tenemos un
+
+8
+00:01:05.840 --> 00:01:10.760
+procesador que es el de nuestro Mac y un procesador que es la arquitectura de la switch más todo
+
+9
+00:01:10.760 --> 00:01:16.880
+lo que han investigado sobre todo eso y ahora resulta que podemos ver un juego que se estrenó el
+
+10
+00:01:16.880 --> 00:01:26.800
+cincu de este mismo mes o sea haces casos cuatro días ocarina de celda lo hemos probado en un Mac
+
+11
+00:01:26.800 --> 00:01:29.240
+em2 max y la verdad es que funciona
+
+12
+00:01:31.880 --> 00:01:39.960
+dice en un Mac em2 max para un como un trabalenguadito o mac en un mac bupro em2
+
+13
+00:01:39.960 --> 00:01:46.800
+sí sí sí sí sí sí bueno yo puedo confirmar que también funciona
+
+14
+00:01:49.200 --> 00:01:56.560
+hoy veis lo tengo en un m5 oye marcos en la verdad que también te la gastas tú bien no tendrás
+
+15
+00:01:56.560 --> 00:02:04.520
+un iphone de última generación como producto de uso o te lo tienes allá pero confirmo que en el m1
+
+16
+00:02:04.520 --> 00:02:11.600
+max va mal en el m2 max va bien pero tiene caídas cuarenta y cinco fin por
+
+17
+00:02:11.600 --> 00:02:15.320
+segundo pero primero que es que es que crasea y
+
+18
+00:02:15.320 --> 00:02:21.920
+exactamente eso ya eso ya es impracticable perfecto o sea bueno en ti crasea ya le hemos
+
+19
+00:02:21.920 --> 00:02:27.280
+sacado la hemos puesto y encima de la mesa marcos lo ha puesto porque en el m5 funciona de maravillá
+
+20
+00:02:27.280 --> 00:02:33.080
+según nos cuenta ese celda que estamos diciendo que lo estamos probando pero al ver podías ponerlo un
+
+21
+00:02:33.080 --> 00:02:37.640
+poquito tu en el suelo en vez de encima de la mesa para saber de qué se trata esto que está
+
+22
+00:02:37.640 --> 00:02:44.480
+ocurriendo respecto a lo que es un port y por qué apel es más preciso a la hora de tener este
+
+23
+00:02:44.480 --> 00:02:51.080
+tipo de proyecto porque se desarrolla mejor el porque se desarrolla mejor ahora mismo no te lo
+
+24
+00:02:51.080 --> 00:02:56.040
+sabres decir pero sí que te puedo decir porque que es un porto un porto es una versión de un
+
+25
+00:02:56.040 --> 00:03:02.640
+juego que se adapta para que funcione a otra plataforma entonces si un juego sale para play y
+
+26
+00:03:02.640 --> 00:03:08.600
+su estudio lo prepara para maco es o sea que no va a pasar pero está pasando hoy en día por
+
+27
+00:03:08.600 --> 00:03:16.080
+de aficionados pues esa edición es un port lo normal es que conserve el mismo juego sin cambiar
+
+28
+00:03:16.080 --> 00:03:22.200
+cómo se dibujan los gráficos cómo le mando o cómo guardan a partida el caso es que con la
+
+29
+00:03:22.200 --> 00:03:28.920
+tecnología que tiene hoy en día los mac eso ha cambiado porque no solamente se ve como el
+
+30
+00:03:28.920 --> 00:03:38.480
+original sino que encima se mejora lo cual evidentemente para un estudio como puede ser
+
+31
+00:03:38.480 --> 00:03:45.000
+Nintendo ver a día de hoy un juego como que estábáis mostrando una pintada muy pequeñita Nintendo
+
+32
+00:03:45.000 --> 00:03:51.960
+no venganse a nosotros esto es por información esto es experimental nos tenemos la perdona
+
+33
+00:03:51.960 --> 00:03:59.280
+tú tienes sus dos marcos no no ni pienso bueno pues al ver y yo la tenemos y tenemos el juego que
+
+34
+00:03:59.280 --> 00:04:05.240
+decir que nosotros tenemos las plataformas y estamos experimentando eso es decir como una punta de
+
+35
+00:04:05.240 --> 00:04:09.800
+que simplemente nos gusta contar ver la tecnología y saber qué es lo que se cuesta en este momento
+
+36
+00:04:09.800 --> 00:04:18.280
+disculpame el comentario al ver no no simplemente es lo que hay evidentemente esto hay ciertas
+
+37
+00:04:18.280 --> 00:04:27.040
+plataformas por no decir todas que no les está gustando un pelo pero claro de dónde arranca
+
+38
+00:04:27.040 --> 00:04:34.840
+todo esto pues los ports arrancan desde hace muchísimos años hay ports de juegos de playstation 1 para
+
+39
+00:04:34.840 --> 00:04:44.560
+pc sobre todo para windows hay ports de otras plataformas a pc de aquí desde lo de playstation 1
+
+40
+00:04:44.560 --> 00:04:53.040
+recordemos cuál fue el primer emulador comercial famoso para playstation 1
+
+41
+00:04:57.760 --> 00:05:05.520
+no me acuerdo que venía en un disco pero una cosa marcos ha dicho una cosa muy importante
+
+42
+00:05:05.520 --> 00:05:11.560
+ha dicho una cosa muy importante pero realmente hay que matizar que lo que estamos haciendo viendo y
+
+43
+00:05:11.560 --> 00:05:19.480
+que están empezando a hacer un clamor no es una emulación es no por nativo correcto sí sí vale
+
+44
+00:05:19.480 --> 00:05:26.000
+entonces al ver no confundir porque aún así hay que decir que que es de por nativo entre comillas
+
+45
+00:05:26.000 --> 00:05:31.120
+hay más emulador de lo que se piensa normalmente hombre claro que hay que adaptar el juego que hay
+
+46
+00:05:31.120 --> 00:05:35.840
+donde creo que hay que valiar que no normalmente esto que le está llamando a por nativos no son
+
+47
+00:05:35.840 --> 00:05:41.040
+aplicaciones nativas y lo de hacer no no no coge en parte del código de la emulador de la plataforma y
+
+48
+00:05:41.040 --> 00:05:46.880
+lo mezclan con el con el por lo correcto porque son los saíders y conocen los saíders que tienen que
+
+49
+00:05:46.880 --> 00:05:52.320
+desgranar lo que es la consola y ahí donde interviene al ver la inteligencia artificial la que ha sido
+
+50
+00:05:52.320 --> 00:05:58.000
+capaz de leer cada una de esos saíders para que cuando pones el juego sepa lo que tiene que hacer nuestro
+
+51
+00:05:58.000 --> 00:06:05.640
+maquete secivamente entonces todo esto yo quería ir antes de llegar a ese punto de donde viene todo
+
+52
+00:06:05.640 --> 00:06:15.280
+esta guerra feroz contra videojuegos actuales y por nativos en windows y en mac que es una de las
+
+53
+00:06:15.280 --> 00:06:22.760
+plataformas que normalmente nunca ha sido característica a pensar para poder jugar en ellas pues todo esto
+
+54
+00:06:22.760 --> 00:06:32.240
+viene y seguramente lo recordaréis cuando Playstation cuando Sony anunció el fin de los discos para su
+
+55
+00:06:32.960 --> 00:06:42.160
+discusión en videoconsola eso infuerció a mucha gente y quizá infuerció a gente que Sony tenía
+
+56
+00:06:42.160 --> 00:06:50.680
+dormida o que pasaban un poquito del tema o que simplemente no les prestaban mucha atención pero
+
+57
+00:06:50.680 --> 00:06:56.680
+infuercieron a las personas equivocadas por lo visto y gracias a la ingeniería inversa a
+
+58
+00:06:57.400 --> 00:07:05.160
+inteligencia artificial han conseguido inclusive antes de que el juego saliera la venta en este caso
+
+59
+00:07:05.160 --> 00:07:13.720
+el juego hemos dado a marcos que ya hubiera un port para mac funcionando a unos frames por segundo y a
+
+60
+00:07:13.720 --> 00:07:21.400
+una fase determinada pero es que en cuatro días desde el lanzamiento del juego el juego ya es
+
+61
+00:07:21.400 --> 00:07:28.960
+totalmente jugable de muchas máquinas y eso es lo espectacular eso podemos decir incluso que
+
+62
+00:07:28.960 --> 00:07:37.400
+es lo bonito lo nílico de todo esto no es super llamativo marcos esto que está ocurriendo
+
+63
+00:07:37.400 --> 00:07:43.320
+nosotros que la gusta cacha real disculpa me quiero que se intervenir dime aquí lo que pasa es que con
+
+64
+00:07:43.320 --> 00:07:48.000
+el mundo de los ports hay como dos escenarios y aquí lo que se demuestra las diferentes que hay
+
+65
+00:07:48.000 --> 00:07:53.480
+entre plataformas porque lo que tenemos es que estos tipos de tres tipos de adaptaciones lo
+
+66
+00:07:53.480 --> 00:07:57.880
+estábamos viendo mucho entre consolas o sea hacer un juego de una consola funcione en otra y tal porque
+
+67
+00:07:57.880 --> 00:08:03.800
+un primer día se entendía que empecé podía simularlo todo ya es algo que si como que se lo
+
+68
+00:08:03.800 --> 00:08:09.320
+traga todo a rebeldes fuerza bruta claro lo que pasa es que aquí pasa un detalle curioso y es que
+
+69
+00:08:09.320 --> 00:08:16.080
+aunque está claro que la Playstation 4 la Playstation 5 las Xbox son PCs entonces lo que es
+
+70
+00:08:16.080 --> 00:08:20.200
+hacer un port llevar a tiempo pero se acabará haciendo perfecto se no hay ninguna duda porque
+
+71
+00:08:20.200 --> 00:08:24.800
+simplemente lo que cambias un par de interfazos y nada más en el caso de las consolas portátiles
+
+72
+00:08:24.800 --> 00:08:30.480
+tienen unas arquitecturas diferentes y aquí el detalle que tienen es que la switch tiene un
+
+73
+00:08:30.480 --> 00:08:37.680
+procesador a rm entonces se debe bien con los mac con la con apesil y con y eso es lo que facilita
+
+74
+00:08:37.680 --> 00:08:43.920
+que es por ser tan rápido o sea en emulación la Nintendo switch los en un pc funciona lo que
+
+75
+00:08:43.920 --> 00:08:47.800
+pasa es que para que funcione bien tienes que tener una tarjeta gráfica en vídeo o sea tienes
+
+76
+00:08:47.800 --> 00:08:55.800
+que tener fuerza bruta para poder tener en cambio en cambio en el en el cambio con apesil y con
+
+77
+00:08:55.800 --> 00:09:02.680
+como ya es un procesador amigo la transformación está en ligera que en un equipo que no tenga una versión
+
+78
+00:09:02.680 --> 00:09:09.240
+pro o sea que no sea uno es un maquestudio que no sea uno así especialmente avanzado y si es
+
+79
+00:09:09.240 --> 00:09:14.280
+moderno es capaz de moverlo otra cosa es cuando lo optimicen igual después ya no solo moderno igual
+
+80
+00:09:14.280 --> 00:09:19.520
+a lo mejor consiguen que funcionen un mm uno todo pero pero en este momento funcionan los mac
+
+81
+00:09:19.520 --> 00:09:23.880
+más más potentes pero especialmente porque estas cosas tienen que depurarse avanzar y visitarse
+
+82
+00:09:23.880 --> 00:09:28.680
+pero que en un principio que se puede hacer es porque son procesadores muy parecidos y lo que
+
+83
+00:09:28.680 --> 00:09:33.520
+tienen que hacer en esta transformación es llevar el juego de una plataforma otra pues es
+
+84
+00:09:33.520 --> 00:09:38.560
+prácticamente adaptar las interfaces o sea hacer que funcione con un mando con un teclado con
+
+85
+00:09:38.560 --> 00:09:43.080
+un ratón en una pantalla con licenciar soluciones cosas que no pasan en la consola la consola
+
+86
+00:09:43.080 --> 00:09:46.720
+tiene las soluciones fijas y funciona de una manera muy concreta tú no le puedes cambiar el mando
+
+87
+00:09:46.720 --> 00:09:51.240
+a la suite le puedes poner un mando externo pero son un número de mandos certificados muy muy
+
+88
+00:09:51.240 --> 00:09:55.680
+limitados en cambio si lo haces a través de un mac hasta le puedes poner un mando de PlayStation
+
+89
+00:09:55.680 --> 00:10:00.760
+on Xbox y te funciona perfectamente y esas cosas hay que adaptarlas irán un poquito de trabajo
+
+90
+00:10:00.760 --> 00:10:05.120
+pero ahí es precisamente donde estaba el trabajo de los emuladores los emuladores fueron los
+
+91
+00:10:05.120 --> 00:10:09.520
+que fueron currándose con el tiempo esas interfaces y cuando la gente crea estos ports coge
+
+92
+00:10:09.520 --> 00:10:13.920
+parte de ese código para poder agilizar todo eso de manera que la gente que ya conocía la
+
+93
+00:10:13.920 --> 00:10:18.680
+emulación se encuentra en un estado muy familiar realmente se encuentra con algo que praticamente
+
+94
+00:10:18.680 --> 00:10:25.000
+va solo y que por suerte la gente que ya controla eso es los solos que cocinan unas recetas para
+
+95
+00:10:25.000 --> 00:10:29.600
+que todo este funcione o sea que preparan la máquina para que tú después puedas jugar de una
+
+96
+00:10:29.600 --> 00:10:33.800
+manera sencilla sin tener que romper de mucho la cabeza los que preparan el emulador bueno el
+
+97
+00:10:33.800 --> 00:10:38.760
+por del primer día eso sí que sí que se rompen bastante las cabetas de pasan unas semanas adaptando
+
+98
+00:10:38.760 --> 00:10:45.080
+las cosas y de hecho es que se no te evolucion en el caso por ejemplo del locarino of time de día a
+
+99
+00:10:45.080 --> 00:10:49.760
+día o sea cada día va saliendo la versión la que va mejor que el día anterior y eso es que requiere
+
+100
+00:10:49.760 --> 00:10:53.720
+que un trabajo de adaptación que van haciendo poquito a poco pero llegará un momento en el que todo
+
+101
+00:10:53.720 --> 00:10:58.320
+funcione con todo es muy bueno sobre todo para aquellos que tengan un ordenador que no sea lo
+
+102
+00:10:58.320 --> 00:11:02.680
+suficientemente potente como el que ha empezado diciendo marcus que sí que es potente pero que
+
+103
+00:11:02.680 --> 00:11:08.040
+a lo mejor tiene una arquitectura de hace unos años en el cual pueda llegarse a practicar pero bueno
+
+104
+00:11:08.040 --> 00:11:13.360
+hay que darse cuenta de que hay un kit hubo un proyecto abierto en el cual cada uno gracias a ese
+
+105
+00:11:13.360 --> 00:11:20.000
+proyecto de código abierto como decía puede cada uno experimentar esto que estamos hablando sin
+
+106
+00:11:20.000 --> 00:11:25.040
+motivar y sin que cada uno lógicamente compre su juego y no comercialice absolutamente nada ya
+
+107
+00:11:25.040 --> 00:11:29.800
+que eso se trata de un delito lo que sí que realmente es importante aquellos que no gusta la
+
+108
+00:11:29.800 --> 00:11:34.280
+tecnología aquellos que tienen un Mac y sobre todo en este debate que tenemos de ron-wan es
+
+109
+00:11:34.280 --> 00:11:39.760
+saber que hay numerosos juegos que ya son adaptados este tipo de sistemas que como bien decía
+
+110
+00:11:39.760 --> 00:11:47.000
+marcus efectivamente todo se trata de que al ser procesadores hermanos por tema de a rm y por
+
+111
+00:11:47.000 --> 00:11:52.080
+tema de toda la gente familiarizada con el tema de la amulación consigue estos portan importantes
+
+112
+00:11:52.080 --> 00:11:57.000
+que estará viendo y además es muy rápido quiero decir que han tardado cuatro días en hacer
+
+113
+00:11:57.000 --> 00:12:04.080
+algo tan descomunal como que la gente que estaba haciendo la cola para coger esos que esos juegos
+
+114
+00:12:04.080 --> 00:12:10.040
+directamente lo tienen a golpe de clic en sus mac entonces vamos a ponerlo un poco en el
+
+115
+00:12:10.040 --> 00:12:15.520
+suelo vamos a debatir porque realmente hay un problema derivado en el que indicaba al principio
+
+116
+00:12:16.080 --> 00:12:22.680
+resulta que Nintendo tendrá que actuar de alguna forma de qué manera pueda actuar y de qué
+
+117
+00:12:22.680 --> 00:12:29.840
+manera la gente puede dejar de comprar una consola porque puede solucionar la papeleta un ordenador
+
+118
+00:12:29.840 --> 00:12:35.400
+que ya puede tener dentro de su trabajo dentro de su disfruto de personal al que le gusta la
+
+119
+00:12:35.400 --> 00:12:41.040
+tecnología generalmente le paso un poco como alberto o como a mí que termina teniendo prácticamente
+
+120
+00:12:41.040 --> 00:12:47.440
+cada una de las últimas generaciones de consola y anteriores porque nos gusta mucho experimentar
+
+121
+00:12:47.440 --> 00:12:53.040
+cada una de las plataformas que existen pero en algún momento en algún lugar a todo el mundo nos
+
+122
+00:12:53.040 --> 00:12:59.760
+ha pasado no tenemos la capacidad o el tiempo o pensamos que ya no es para nosotros tener que
+
+123
+00:12:59.760 --> 00:13:07.440
+meternos en este tipo de juegos entonces es muy difícil saber cómo va a actuar mientendo alberto
+
+124
+00:13:08.440 --> 00:13:16.720
+bueno nintendo es famosa por ir detrás de todas estas cosas lo que ocurre es que yo creo que
+
+125
+00:13:16.720 --> 00:13:23.240
+han intentando las de falta explicarle una empresa de que nació haciendo nipes que no se puede
+
+126
+00:13:23.240 --> 00:13:33.440
+poner portas al bosque aunque lo sale para poder hacer cartas y evidentemente cuando se cierre
+
+127
+00:13:33.960 --> 00:13:39.920
+una puerta pues habría tantos ventanas al final es un poquito como de pirateino que sigue funcionando
+
+128
+00:13:39.920 --> 00:13:47.440
+a día de hoy porque no pueden cerrarlo o sea está pensado para que eso no puedo ocurrir entonces si
+
+129
+00:13:47.440 --> 00:13:53.920
+consiguen cerrar un emulador como pasó hace de empatras con un acuerdo económico por detrás pero
+
+130
+00:13:53.920 --> 00:13:59.600
+le nacen dos competidores y esos dos competidores hacen exactamente la misma cena o mejor incluso
+
+131
+00:14:00.320 --> 00:14:07.520
+que el anterior pues poco se puede hacer entonces de hecho la gente está muy organizada están
+
+132
+00:14:07.520 --> 00:14:18.960
+saliendo compiladores de ports para todas las plataformas no solamente para switch 2 yo
+
+133
+00:14:18.960 --> 00:14:28.480
+puedo decir dos a nivel informativo recomp la ontria sería uno y el otro que es el que yo tengo
+
+134
+00:14:28.480 --> 00:14:36.600
+instalado es game wave que lo único que hace es un proyecto en github que lo único que haces no
+
+135
+00:14:36.600 --> 00:14:42.960
+pone los enlaces de absolutamente nada simplemente te dice qué juegos ya están portados de qué plataforma
+
+136
+00:14:42.960 --> 00:14:51.480
+los puedes buscar por un orden y simplemente tú ya lo tienes listo para poder jugar si tienes
+
+137
+00:14:51.480 --> 00:14:59.040
+el juego original la rom del juego original que esas otras de las cosas que tenemos que tener claras
+
+138
+00:14:59.040 --> 00:15:08.480
+entonces actualmente de game wave tiene mil 95 proyectos en cuestión de que 2 semanas 3 semanas
+
+139
+00:15:08.480 --> 00:15:14.720
+es una locura lo que ha dicho una cosa importante que creo que he comentado yo aparte de dar a tratar
+
+140
+00:15:14.720 --> 00:15:20.200
+loco marcus y es que estoy muy loco porque a mí siempre me ha gustado el mundo de los videojuegos
+
+141
+00:15:20.200 --> 00:15:26.480
+siempre me ha gustado emular siempre me ha gustado pegas a rear y me di cuenta de que justo has
+
+142
+00:15:26.480 --> 00:15:33.760
+dado la clave de una cosa tan importante no es hasta donde yo sé que me puedo confundir porque no
+
+143
+00:15:33.760 --> 00:15:37.840
+me muevo en aspectos legales pero para eso marculedad si vas a decir lo que yo creo que estás
+
+144
+00:15:37.840 --> 00:15:44.560
+confundiendo vale todavía no lo he dicho pero ahora si no me corrigues yo ahora mismo en vision
+
+145
+00:15:44.560 --> 00:15:54.960
+pro al igual que está diciendo al ver hay un software que hace que adapta el highlight alix que se
+
+146
+00:15:54.960 --> 00:16:01.280
+conecta a mi cuenta original de steam para que automáticamente cuando lo deyo ese parámetro de
+
+147
+00:16:01.840 --> 00:16:09.440
+esa compra ya hecha me la adapta a vision pro de forma nativa para experimentar mi juego comprado por
+
+148
+00:16:09.440 --> 00:16:17.200
+mi porque hay personas que gracias y sobre todo gracias a la inteligencia artificial han conseguido en
+
+149
+00:16:17.200 --> 00:16:23.920
+tiempo récord un resultado estupendo pues hay lo que decía tú lo que tienes cada vez compres un
+
+150
+00:16:23.920 --> 00:16:28.960
+juego tiene una licencia que es por una plataforma concreta para un uso concreto tan pronto modifica
+
+151
+00:16:28.960 --> 00:16:35.040
+salgo estás infligiendo la licencia y además eso de que poseer los juegos originales entonces eso es
+
+152
+00:16:35.040 --> 00:16:41.040
+legislación estadounidense en Europa no aplica nada de eso turcumbrado tienes derecho a hacer ningún tipo de
+
+153
+00:16:41.040 --> 00:16:49.760
+modificación pero que me da igual bueno a ver lo digo que marcos que digo que es pero que
+
+154
+00:16:49.760 --> 00:16:54.200
+pipega es porque está copiando de americano la lea americana no es la europea pero no es
+
+155
+00:16:54.920 --> 00:16:59.960
+las cosas que yo te entiendo y tú lógicamente no se está corrigiendo porque yo tengo que
+
+156
+00:16:59.960 --> 00:17:05.920
+Nintendo es la actividad compañía que te vende el juego 20 veces bueno hay algunas que te lo
+
+157
+00:17:05.920 --> 00:17:09.360
+no hay veces que te los incluyan hay otros que tienen peores prácticas que la tienen
+
+158
+00:17:09.360 --> 00:17:14.400
+respecto a la hora de comprar un juego porque ahora cuando compras el de switch uno a veces
+
+159
+00:17:14.400 --> 00:17:19.520
+tienen el de switch dos en el mismo en el mismo en la misma compra pero bueno que dentro de esas
+
+160
+00:17:19.520 --> 00:17:26.120
+prácticas y de revender juegos de la misma plataforma que yo si he comprado ese juego otra cosa es
+
+161
+00:17:26.120 --> 00:17:30.680
+que la ley la letra pequeña me indica que no se puede hacer pero que es lo más legal del mundo y
+
+162
+00:17:30.680 --> 00:17:34.520
+que el software ese no le pueden quitar porque no están vendiéndote el juego están simplemente
+
+163
+00:17:34.520 --> 00:17:40.720
+simplemente trabajando en un código que te la da a una plataforma con unas condiciones y eso
+
+164
+00:17:40.720 --> 00:17:47.360
+no es ilegal no no cosas que sea ilegal ilegal el software que hace la emulación eso es que
+
+165
+00:17:47.360 --> 00:17:54.080
+se metan incluyan roms incluyan el que también quiero llamar pero si facilitan el hecho de que
+
+166
+00:17:54.080 --> 00:17:58.880
+te infringas la ley les pueden ir encima y de hecho es por eso por lo que hubo los acuerdos judiciales
+
+167
+00:17:58.880 --> 00:18:02.520
+con con las otras y los otros emuladores que hubo hay atrás los emuladores que había para su
+
+168
+00:18:02.520 --> 00:18:07.800
+y estaban ahí rozando un poquito o la cosa es que ahora mismo es una práctica gracias a esta
+
+169
+00:18:07.800 --> 00:18:12.200
+inteligencia artificial que no sé si lo ha vivido vosotros que yo tengo palmas con las orejas
+
+170
+00:18:12.200 --> 00:18:19.820
+porque me encuentro me encuentro en metacuestres y en visión pro un tain crisis el tain crisis que lo
+
+171
+00:18:19.820 --> 00:18:29.160
+había en la máquina de que tú y vas a tu maquinar tave en tu sitio de recreativos te pones la gafa y
+
+172
+00:18:29.160 --> 00:18:37.640
+es mejor la experiencia que la propia máquina que es física y dice tú quién cojó en ese hecho esto
+
+173
+00:18:37.640 --> 00:18:43.720
+que encima lo he hecho una persona seguramente sin ánimo de lucro no cobrando nada pero sin
+
+174
+00:18:43.720 --> 00:18:47.440
+embargo consigue estitarme de esta forma
+
+175
+00:18:49.280 --> 00:18:53.160
+es normal por ejemplo mi hijo de favoritos de berre son los pímboles fixa
+
+176
+00:18:55.160 --> 00:19:00.760
+que le voy a replicarle un poco de pímbola en el verbo es posible esto pero el detalle que aquí
+
+177
+00:19:00.760 --> 00:19:06.240
+hay que pensar la gente de un detalle muy importante cuando hablamos de los emuladores normalmente es
+
+178
+00:19:06.240 --> 00:19:12.000
+una aplicación que tú instalas y después le metes roms en cambio aquí con los ports aunque muchos van a
+
+179
+00:19:12.000 --> 00:19:17.120
+acabar están integrados en emuladores si tienes una aplicación desde la que lanza es todo tal y como
+
+180
+00:19:17.120 --> 00:19:23.520
+lo están distribuyendo actualmente es super super super peligroso por qué porque por el
+
+181
+00:19:23.520 --> 00:19:30.400
+agente que está distribuyendo no la rom están distribuyendo ya un paquete con el ejecutable y claro
+
+182
+00:19:30.400 --> 00:19:37.600
+que tú no sabes de quién viene que viene dentro de ese ejecutable o sea hay que tener muchísimo
+
+183
+00:19:37.600 --> 00:19:45.200
+cuidado con lo que se puede meter unos trolleanos y meter unas cosas en el equipo porque aparte
+
+184
+00:19:45.200 --> 00:19:52.160
+es que la única cosa que tú tienes que autorizar en el Mac te pide permiso más que avisando de que
+
+185
+00:19:52.160 --> 00:19:56.840
+estás metiendo algo que no puede verificar porque lógicamente la persona que hace todo esto no
+
+186
+00:19:56.840 --> 00:20:00.840
+puede firmar con su lame el suavellido si no le viene en el interno encima entonces no puede
+
+187
+00:20:00.840 --> 00:20:08.760
+tener una certificado legal como permitiría apel para poder hacer una entrega de centro del ejecutable y
+
+188
+00:20:08.760 --> 00:20:13.760
+entonces si tenemos ahí en la jungla además que tal y como se mueve esto muchas veces están los forres de
+
+189
+00:20:13.760 --> 00:20:18.560
+que tienes un problema con un juego y dicen ahí eso es porque no te vacaste la versión actualizada
+
+190
+00:20:18.560 --> 00:20:23.360
+baja te esta te pone un enlace y tú picas y te pueden tener para dejar el ordenador a la paro de
+
+191
+00:20:23.360 --> 00:20:28.720
+cualquier efectivamente que cada uno tiene que tener sus precauciones que no podemos motivar cada uno
+
+192
+00:20:28.720 --> 00:20:33.760
+que sepa lo que tiene que hacer ahora hay una pregunta y si es decir perdón Dani desde manzanas
+
+193
+00:20:33.760 --> 00:20:39.760
+enfrentadas no incitamos a que nada le haga nada de todo esto exactamente estamos informando de algo
+
+194
+00:20:39.760 --> 00:20:45.640
+que está sucediendo actualmente sí bueno y luego cada uno con su cuenta y riesgo pues actúan
+
+195
+00:20:45.640 --> 00:20:50.400
+conveni en consecuencia lo que quería decir es que al igual que existen los procesadores que
+
+196
+00:20:50.400 --> 00:20:55.800
+hemos hablado respecto a los apel a los que son m2 que parece que funcionan bien como el que tengo
+
+197
+00:20:55.800 --> 00:21:01.000
+hoy y como que tiene marcos con el m5 la gente se está preguntando si esto también se puede utilizar
+
+198
+00:21:01.000 --> 00:21:08.320
+en un iphone y la respuesta es si se puede utilizar en un iphone de una potencia interesante
+
+199
+00:21:08.320 --> 00:21:13.400
+y en algunos juegos determinados y es que aquí es donde realmente pues lógicamente también
+
+200
+00:21:13.400 --> 00:21:19.800
+hay que decir y puntualizar el juego online hasta día de hoy porque servidores lógicamente lo
+
+201
+00:21:19.800 --> 00:21:26.480
+de Nintendo no los va a coger no están preparados para hacer ese tipo de juego en línea están
+
+202
+00:21:26.480 --> 00:21:32.360
+preparados para jugar competiciones online en el caso de por ejemplo de poner un mario
+
+203
+00:21:32.360 --> 00:21:38.880
+card de turno y ponerte a jugar cualquier competición con un amigo o familiar en cuáles
+
+204
+00:21:38.880 --> 00:21:45.480
+ciones de ese tipo pues parecía que la cosa funciona inclusive también en un ipad en un iphone y en un
+
+205
+00:21:45.480 --> 00:21:52.520
+map y entonces es cuando realmente pues quería también escuchar a marcus de qué manera podemos
+
+206
+00:21:52.520 --> 00:22:01.080
+interpretar sabiendo dos cosas es caset de consolas por un lado el precio tan alto que se están pagando
+
+207
+00:22:01.080 --> 00:22:05.120
+por algunas de ellas en caso también no solamente de que no la puedas encontrar sino que cuando
+
+208
+00:22:05.120 --> 00:22:11.560
+la encuentres no es económica pero tú ya tienes un ordenador o tienes pensado comprarte un
+
+209
+00:22:11.560 --> 00:22:19.320
+ordenador y entonces es cuando viene la pregunta del millón que hago si todo depende de presupuesto
+
+210
+00:22:19.320 --> 00:22:26.640
+de exigencia de qué interviene esto marcus en tu caso a lo mejor intenta no solamente darnos
+
+211
+00:22:26.640 --> 00:22:31.960
+tu prisma sino un poco también una vez que nos cuentes tu perspectiva cómo crees que lo
+
+212
+00:22:31.960 --> 00:22:37.960
+interpretará el público es que ética inmoralmente son cosas muy distintas de cómo se ve esto porque al
+
+213
+00:22:37.960 --> 00:22:44.160
+final no deja de ser una práctica que está siempre rozando los límites de lo legal y de
+
+214
+00:22:44.160 --> 00:22:49.760
+legal normalmente lléndose directamente al legal o sea que aquí y luego España perdón que estamos
+
+215
+00:22:49.760 --> 00:22:56.160
+hablando de España que esto también es una cosa somos los reyes del pirateo pero de trae eso que
+
+216
+00:22:56.160 --> 00:23:00.080
+quitando ya le hecho de que haya legalidad o no lo que sí que está claro es que los ordenadores
+
+217
+00:23:00.080 --> 00:23:05.840
+personales son la opción que está teniendo mayor crecimiento para los videojuegos precisamente
+
+218
+00:23:05.840 --> 00:23:10.440
+porque el ordenador lo usa para más cosas entonces es un dispositivo que lo necesitas para los
+
+219
+00:23:10.440 --> 00:23:15.240
+estudios para el trabajo y si lo puedes aprovechar también para locio pues mira una aprovechamiento
+
+220
+00:23:15.240 --> 00:23:21.120
+mayor que bueno y además que como los dispositivos estes son más actualizables con la consola
+
+221
+00:23:21.120 --> 00:23:25.240
+normalmente la consola hasta que salta de generación no puedes ampliarla en cambio en ordenador
+
+222
+00:23:25.240 --> 00:23:29.480
+pues le puedes poner según el equipo que tengas pues en un pc le puedes cambiar la gráfica y en
+
+223
+00:23:29.480 --> 00:23:34.480
+otros le puedes hacer ampliaciones de disco mientras no hay algunas cosillas para tirar para
+
+224
+00:23:34.480 --> 00:23:39.240
+adelante y eso pues ayuda a poder mantener los dispositivos con más vida después también hay que
+
+225
+00:23:39.240 --> 00:23:43.000
+si la asigencia que si puedes tenerlo con monitores lo puedes tener en portal y lo puedes tener en el
+
+226
+00:23:43.000 --> 00:23:47.240
+salón la verdad es que tanta diversidad entre el mundo del pc que la verdad es que da muchas
+
+227
+00:23:47.240 --> 00:23:52.640
+solvencia y además está ahora también emergiendo todo el asunto de los ordenadores consolizados
+
+228
+00:23:52.640 --> 00:23:56.720
+estas especies de Steam deck que hay clónicas que hay aparecen muchísimas en el mercado y eso
+
+229
+00:23:56.720 --> 00:24:01.640
+está promoviendo también la aparición de un montón de aplicaciones que facilitan el uso de
+
+230
+00:24:01.640 --> 00:24:06.200
+juegos sin complicarse con la interfaz es poner interfaz es muy sencillas para que tú puedas
+
+231
+00:24:06.200 --> 00:24:10.160
+pulsando un botón con algún bella empezar a jugar y no tener que andar moviendo por menús haciendo
+
+232
+00:24:10.160 --> 00:24:15.360
+cosas raras todo eso está ayudando a crear un panorama de ordenador como dispositivo del juego que es
+
+233
+00:24:15.360 --> 00:24:19.640
+muy favorable además viendo que las consolas poco a poco se están yendo a por encima de los
+
+234
+00:24:19.640 --> 00:24:24.200
+mil euros y eso es un poquito loco para la mayoría de la gente que hay en eso el panorama para
+
+235
+00:24:24.200 --> 00:24:28.760
+defender a los pc está muy bien y luego por supuesto desde el punto de vista de Mac también tenemos
+
+236
+00:24:28.760 --> 00:24:32.600
+el detalle de que está saliendo todo esto es un todo de los ports que no solo está afectando al
+
+237
+00:24:32.600 --> 00:24:37.280
+hecho de la de la switch que es una manera de poder jugar los juegos de switch en un ordenador sino
+
+238
+00:24:37.280 --> 00:24:44.240
+que también influye para la manera de traer un juego de pc a mac de maneras cada vez mejores una
+
+239
+00:24:44.240 --> 00:24:48.920
+de las que tienen un ya poco tiempo y que la verdad es que la gente está bastante condenle sobre un
+
+240
+00:24:48.920 --> 00:24:55.280
+sistema que hay de port en el que están haciendo que funcione dentro de mac estimos o sea el sistema
+
+241
+00:24:55.280 --> 00:24:59.760
+operativo devalve que es el que utiliza el sting deck y que lo puedes utilizar directamente en
+
+242
+00:24:59.760 --> 00:25:05.240
+ordenador de mac o sea que podrías jugar a los juegos que tienes comprados de steam que se
+
+243
+00:25:05.240 --> 00:25:09.920
+han compatibles con estimos que son muchísimos y los puedes utilizar directamente de mac a
+
+244
+00:25:09.920 --> 00:25:13.960
+mac aunque esos juegos no tengan versión para mac y en ese caso si que no tendrías limitaciones
+
+245
+00:25:13.960 --> 00:25:19.600
+incluso podrías jugar online o sea que esto es abrir una puerta a que tener un mac se igual que tener
+
+246
+00:25:19.600 --> 00:25:25.080
+una sting deck y eso también es un es un es un es un es un es un es linux al final cabo y eso
+
+247
+00:25:25.080 --> 00:25:29.600
+también es una correlación fácil para esas sting deck que tal bueno composición funciona
+
+248
+00:25:29.600 --> 00:25:35.680
+relativamente bien muy buenas cosas que estamos viendo en composición con todas las opiniones que
+
+249
+00:25:35.680 --> 00:25:41.560
+estamos teniendo en este ron one al ver en el cual también en derivados están ocurriendo muchos
+
+250
+00:25:41.560 --> 00:25:48.160
+fenómenos están habiendo juegos un poco más antiguos juegos que quieren que lleguen a todos los
+
+251
+00:25:48.160 --> 00:25:55.240
+efectos incluso juegos que también tienen de tequibos 360 de play 2 de todo de play 5 hay un
+
+252
+00:25:55.240 --> 00:26:00.680
+montón de historias y el detonante tú has dicho desde principio que podría ser el tema de
+
+253
+00:26:00.680 --> 00:26:08.160
+que desde el uno de en el 2018 se ha manifestado de forma abierta y comunicado oficial por parte de
+
+254
+00:26:08.160 --> 00:26:13.760
+Sony en el cual el formato físico se pierde y entonces parece que todo el mundo ha sacado las uñas
+
+255
+00:26:13.760 --> 00:26:20.800
+y su y suía pasear los que más saben controlarla para hacer daño quizás o sea una excusa quizá no
+
+256
+00:26:20.800 --> 00:26:24.560
+pero realmente lo que está claro es que ahora mismo proglusión soque seis en un navegador se puede
+
+257
+00:26:24.560 --> 00:26:32.760
+jugar nix four speed underground no dix four speed sí un de grandos se puede jugar e incluso en
+
+258
+00:26:32.760 --> 00:26:37.280
+una imponduo y se puede jugar el línea en el proglusión soque seis también se puede jugar el
+
+259
+00:26:37.280 --> 00:26:43.280
+línea está viendo muchísimo fenómenos gracias a la inteligencia artificial donde está el límite y
+
+260
+00:26:43.280 --> 00:26:49.200
+si dejaremos de comprar una consola los que somos consoleros y si el día de mañana al final el
+
+261
+00:26:49.200 --> 00:26:55.400
+Mac tiene tanto tanto protagonismo conocida a marcus relacionado a que con un Mac casi lo vas a
+
+262
+00:26:55.400 --> 00:27:01.320
+poder hacer todo aunque el nivel de exigencia ya depende de cada uno la la 50 90 son tres mil euros
+
+263
+00:27:01.320 --> 00:27:08.920
+ahora mismo las consolas de PlayStation 5 pero casi no se ven y es muy complicado ver y discernir
+
+264
+00:27:08.920 --> 00:27:15.960
+el futuro cómo va a ser en el mundo del videojuego donde está el límite vamos a la siguiente
+
+265
+00:27:15.960 --> 00:27:22.480
+generación de consolas están cuestionándose el formato físico está debajo del subsuelo esto
+
+266
+00:27:22.480 --> 00:27:28.560
+está en un momento que el mundo del videojuego por una parte es muy satisfactorio y por otra parte parece
+
+267
+00:27:28.560 --> 00:27:37.680
+que estamos en problemas sí sí a ver el hecho de los discos físicos digitales al final está
+
+268
+00:27:37.680 --> 00:27:43.080
+muy bien para lo que es coleccionismo me encanta tener mi disco físico pero no hay que engañarse
+
+269
+00:27:43.080 --> 00:27:49.320
+un de un juego físico que necesita una conexión a internet para poder jugar es como no tener
+
+270
+00:27:49.320 --> 00:27:59.040
+absolutamente nada porque si el el el fabricante de ese videojuego decide que tú no vas a jugar porque
+
+271
+00:27:59.040 --> 00:28:07.240
+va a cerrar el server y ya no vas a poder conectarte no juegas punto salvo por esta gente
+
+272
+00:28:07.240 --> 00:28:13.760
+que está haciendo estos ports que incluso pueden montar servidores propios para poder jugar que
+
+273
+00:28:13.760 --> 00:28:21.520
+esas otras de las reivindicaciones que hace el este tipo de personas que hacen estos ports entonces
+
+274
+00:28:23.480 --> 00:28:29.560
+nada es como antes mira yo me acabo de comprar ahora el teque nocho para Xbox por cinco euros
+
+275
+00:28:29.560 --> 00:28:36.640
+de que me sirve de poco por qué porque es un juego inacabado es un juego que si yo quiero
+
+276
+00:28:36.640 --> 00:28:41.880
+tener todos los personajes de comprarlos no los puedo ganar como hacíamos antes tú tenías el
+
+277
+00:28:41.880 --> 00:28:47.440
+teque en uno te lo pasabas de cierta manera sin perder o contar personaje y conseguías
+
+278
+00:28:47.440 --> 00:28:56.640
+otra personaje desbloqueable y así procede con todo hoy en día eso no existe un juego nunca se
+
+279
+00:28:56.640 --> 00:29:04.480
+saca acabado jamás a día de hoy se saca un videojuego acabado porque tienen la posibilidad de
+
+280
+00:29:04.480 --> 00:29:12.760
+poder no solamente arreglar errores que no deberían estar ya en el formato final sino de sacar más
+
+281
+00:29:12.760 --> 00:29:22.160
+dinero al usuario por nuevos personajes por nuevas pantallas por nuevas versiones lo que sea
+
+282
+00:29:22.160 --> 00:29:28.920
+llamémosle x aquí creo que el del el del rinno e oblidios creo que fue el primero a entender
+
+283
+00:29:28.920 --> 00:29:34.920
+a me puedo equivocar me estoy metiendo en un menejanal que yo solo pero bueno hubo un juego que
+
+284
+00:29:34.920 --> 00:29:41.120
+decidió que podías comprarte una ropita para ser diferente a los demás y que esa ropita se
+
+285
+00:29:41.120 --> 00:29:48.040
+pagaba con dinero físico con dinero real en un videojuego para destacarte por encima de los
+
+286
+00:29:48.040 --> 00:29:57.520
+demás y ahí la liarón que es el abacero como el iphone pues la lío mucho con los smartphones y
+
+287
+00:29:57.520 --> 00:30:03.000
+tantas otras cosas que son una primera generación de algo que funciona y acaba quedándose
+
+288
+00:30:04.000 --> 00:30:09.760
+aún así lo de soporte físico recordemos que es que es algo que caduca porque a ver
+
+289
+00:30:09.760 --> 00:30:16.640
+su parte físico a ver después como reproduce una cinta de espectromó de msx en un pc o después
+
+290
+00:30:16.640 --> 00:30:21.480
+de los primeros juegos de los primeros juegos de msx en discuetes tampoco tengo manera de reproducirlos
+
+291
+00:30:21.480 --> 00:30:25.280
+por no tengo discuetera en ningún lado con los ds y los deberéis está pasando el mismo en
+
+292
+00:30:25.280 --> 00:30:31.560
+ordenador nadie tiene unidad de lectura en casa para poder cargar los juegos y eso va
+
+293
+00:30:31.560 --> 00:30:40.800
+acabando ahí hay solo cienes para eso porque hoy en día hay discuetera y tengo que no que no que no que no es
+
+294
+00:30:41.640 --> 00:30:46.400
+claro que tú tienes tu ordenador de última generación y tienes tu colección de juegos
+
+295
+00:30:46.400 --> 00:30:51.560
+efectivamente podrías tener el origen de su ordenador pero claro si tú has comprado que con el
+
+296
+00:30:51.560 --> 00:30:57.320
+sr recorrido tienes más de 40 años y tienes más de siete plataformas diferentes tú no
+
+297
+00:30:57.320 --> 00:31:02.120
+puedes llenar tu propia habitación con todas las consolas y con todo lo que has tenido en ese
+
+298
+00:31:02.120 --> 00:31:07.120
+tiempo pues conservar lo que más te guste y pues tener tu colección pero no tiene sentido como
+
+299
+00:31:07.120 --> 00:31:11.680
+hice marcus tener que tener montado cada una de las plataformas con cada uno de los juegos que
+
+300
+00:31:11.680 --> 00:31:17.920
+compras en ese momento de ahí es donde los que queremos revivir el pasado los que nos gusta mucho
+
+301
+00:31:17.920 --> 00:31:22.720
+de los juegos que ha habido en la anteriormente poderlo revivir con otras plataformas como justo
+
+302
+00:31:22.720 --> 00:31:26.400
+está sucediendo en este momento porque la estamos hablando de actualidad pero generalmente el
+
+303
+00:31:26.400 --> 00:31:31.920
+emulador viene para justo esa cinta de caset que venía de spectrum tenía o de msx que tenía marcus
+
+304
+00:31:31.920 --> 00:31:36.360
+pues de poder reproducirla sin meter la cintis sin hacer los tiempos de carga por mucho que le
+
+305
+00:31:36.360 --> 00:31:43.000
+puedan gustar el sonido que hace esa combinación entonces es complejo es verdad que los tiempos
+
+306
+00:31:43.000 --> 00:31:49.200
+mandan es tener mucha razón al ver respecto a la manera de inacabar juegos del modo de negocio
+
+307
+00:31:49.200 --> 00:31:55.120
+de un juego el tema de que sea gratis y los micropagos el tema de apelarque sin anuncios pero con unos
+
+308
+00:31:55.120 --> 00:32:02.240
+juegos un poquito más básicos cada uno le puede gustar un juego es muy respetable y tenemos que
+
+309
+00:32:02.240 --> 00:32:06.840
+respetar cada una de las plataformas que lo están sacando pero no se igual que no se pueden poner
+
+310
+00:32:06.840 --> 00:32:13.160
+puertas al campo tampoco se puede exigir que haya un formato físico por mucho que me guste y
+
+311
+00:32:13.160 --> 00:32:18.560
+por mucho que mis compañeras me puedan la pidar por este comentario porque realmente en el siglo en
+
+312
+00:32:18.560 --> 00:32:26.400
+el que estamos no podemos tener algo físico fácil porque el juego que compras tú puedes
+
+313
+00:32:26.520 --> 00:32:32.240
+jugarle en la versión cero en el mejor de los casos pero es que ese juego terminado ya no se
+
+314
+00:32:32.240 --> 00:32:37.160
+puede escribir en el para jugar en el juego terminado ese es el principal problema de tener ese
+
+315
+00:32:37.160 --> 00:32:43.560
+juego físico inacabado el del minuto uno a no ser que luego sacaron esa versión atractada al
+
+316
+00:32:43.560 --> 00:32:48.880
+final con todas sus actualizaciones para que cuando lo pongas funcione pero luego cuando vas a ir
+
+317
+00:32:48.880 --> 00:32:53.880
+al futuro dentro de diez años después ese juego como le pasa a marcus no lo vas a poder reproducir
+
+318
+00:32:53.880 --> 00:32:58.560
+pero sin embargo hay que preservarlo porque es cultura porque es cultura de juego porque es amor
+
+319
+00:32:58.560 --> 00:33:03.300
+porque tú quieres reivir ese pasado entonces tiene que haber una plataforma de algún momento para que
+
+320
+00:33:03.300 --> 00:33:09.600
+esto funcione y entonces los que amamos el videojuego tenemos que buscar una solución porque a
+
+321
+00:33:09.600 --> 00:33:14.680
+nosotros el que ya vendió miles de unidades en ese momento ya no sigue vendiéndolo entonces aquí
+
+322
+00:33:14.680 --> 00:33:21.600
+alguna empresa grande como Apple como Steam como cualquiera de las que conocemos debería de hacer
+
+323
+00:33:21.600 --> 00:33:27.960
+algo parecida a lo que tenemos como la música que tú puedas jugar a ella con una en el caso de
+
+324
+00:33:27.960 --> 00:33:32.640
+hacerlo legal con una suscripción o con alguna forma para que cuando reproduzcas ese juego
+
+325
+00:33:32.640 --> 00:33:38.060
+engane quien tiene que ganar su parte proporcional respecto a la suscripción algo
+
+326
+00:33:38.060 --> 00:33:42.280
+y apretamente debería de dejar hacer que pudieramos jugar a los títulos viejos de
+
+327
+00:33:42.280 --> 00:33:48.200
+iPad y de iPhone que ya no están atorizados también y esas otras son condiciones son
+
+328
+00:33:48.200 --> 00:33:53.400
+letras pequeñas son legalidades que tú estabas hablando como como como realmente estamos en el
+
+329
+00:33:53.400 --> 00:33:59.440
+final de este ronguán y queremos que participe en él cuando lo escuches en el caso de que sea
+
+330
+00:33:59.440 --> 00:34:07.700
+Spring que es ya este lunes finalizando la noche hablando de precisamente las 23 horas pues esto
+
+331
+00:34:07.700 --> 00:34:12.800
+se va a quedar para que el sábado lo tengan todo el mundo y todo el mundo puedo pinar tanto en
+
+332
+00:34:12.800 --> 00:34:17.360
+la aplicación de manzanas enfrentadas en nuestro grupo de telegram en las redes sociales y en la
+
+333
+00:34:17.360 --> 00:34:22.880
+caja de comentarios de este vídeo de youtube que se ahora mismo os oculto pero el sábado
+
+334
+00:34:22.880 --> 00:34:29.480
+de las 6 de la mañana es público para que todo el mundo disfrute de un nuevo ronguán y de
+
+335
+00:34:29.480 --> 00:34:35.040
+una polémica que está servida en el día de hoy que la actualidad manda con los juegos con los
+
+336
+00:34:35.040 --> 00:34:42.520
+ports y con todo lo que acontece Apple el videojuego y la inteligencia artificial que siempre está
+
+337
+00:34:42.520 --> 00:34:50.120
+ahí y que nos va a causar un problema o a ser más felices de momento yo estoy flipando pero es
+
+338
+00:34:50.120 --> 00:34:56.040
+que las cosas son así hay que disfrutar y no sé a lo que nos vamos a llevar
+
+339
+00:34:57.920 --> 00:35:05.200
+ya sabes un mando de Xbox 360 baratito con cable en tu vida me gusta me gusta eso porque yo tengo
+
+340
+00:35:05.200 --> 00:35:09.240
+una y me gusta ese el de 360 con cables no de mi es de mi
+
+341
+00:35:09.240 --> 00:35:13.560
+es que funcionan después con todo que ya van a automáticamente todos los juegos y me
+
+342
+00:35:13.560 --> 00:35:20.120
+complicarse con mi gran esto que estoy enseñando es dios a mismo si si si si me mando me
+
+343
+00:35:20.120 --> 00:35:25.720
+me gusta mucho también y el de 360 también bueno cuéntanos si has hecho alguna jugada de este tipo si
+
+344
+00:35:25.720 --> 00:35:31.440
+quieres comentarnos que tal funciona en tu equipo como experimental y somos todos idos para recibir
+
+345
+00:35:31.440 --> 00:35:37.240
+en nuestro grupo de telegram o donde quieras buscarnos nosotros reponderemos gustosamente y una
+
+346
+00:35:37.240 --> 00:35:42.800
+vez más ya sabes que lo tenemos poner un juego poner un Mac poner lo que queráis en vuestra vida pero
+
+347
+00:35:42.800 --> 00:35:48.080
+cuando es manzana se enfrentadas o tenemos chao tenemos
+
