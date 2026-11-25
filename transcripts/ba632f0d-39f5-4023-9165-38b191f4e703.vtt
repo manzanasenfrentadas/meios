@@ -1,0 +1,330 @@
+WEBVTT - Manzanas Enfrentadas Transcripción Oficial
+
+1
+00:00:00.000 --> 00:00:29.460
+Muy buenas, yo soy Magtronpa Magt para los amigos y este es el manzana sin formadas número 452 del lunes 28 de septiembre.
+
+2
+00:00:30.000 --> 00:00:36.440
+Y empezamos la semana con dos historias que nos llevan por caminos bastante diferentes dentro de Apple.
+
+3
+00:00:36.440 --> 00:00:47.000
+La primera tiene como protagonista una de esas tecnologías que utilizamos absolutamente todos los días y en la que probablemente no pensamos demasiado.
+
+4
+00:00:47.000 --> 00:00:54.380
+Hasta que acaba en los tribunales claro y la factura que hay encima de la mesa no es precisamente pequeña.
+
+5
+00:00:54.380 --> 00:01:04.680
+Después hablaremos de Vision Pro porque Apple parece seguir buscando la manera de solucionar uno de los problemas más evidentes de su ordenador espacial.
+
+6
+00:01:04.680 --> 00:01:13.520
+Y para hacerlo podría estar incluso mirando en una dirección que no resulta familiar después de lo que vemos hace unos días con meta.
+
+7
+00:01:13.520 --> 00:01:24.520
+Dos historias, dos piezas diferentes del ecosistema de Apple y algunas preguntas interesantes sobre hacia dónde está llevando la compañía sus productos.
+
+8
+00:01:24.520 --> 00:01:27.520
+Empezamos.
+
+9
+00:01:27.520 --> 00:01:38.680
+Y vamos a empezar con la primera noticia del día de hoy con una cifra que impresiona 5.700 millones de dólares.
+
+10
+00:01:38.680 --> 00:01:53.680
+Y eso es lo que un jurado federal en San Diego ha determinado que Apple ha infringido dos patentes de Taction Technology relacionadas con tecnología aptica y utilizadas en determinados iPhones y Apple Watch.
+
+11
+00:01:53.680 --> 00:02:01.680
+Según las crónicas judiciales sería la mayor indemnización por patentes de la historia de los Estados Unidos.
+
+12
+00:02:01.680 --> 00:02:09.680
+Pero antes de quedarnos únicamente con la cifra vamos a intentar explicar que es exactamente lo que hay detrás de todo este caso.
+
+13
+00:02:09.680 --> 00:02:12.680
+Porque estamos hablando del Taptic Enjain.
+
+14
+00:02:12.680 --> 00:02:22.680
+El Taptic Enjain es ese sistema que genera buena parte de las sensaciones físicas que recibimos cuando utilizamos un iPhone o un Apple Watch.
+
+15
+00:02:22.680 --> 00:02:30.680
+Una pulsación, una notificación, un pequeño toque cuando interactuamos con determinados elementos de la interfaz.
+
+16
+00:02:31.680 --> 00:02:37.680
+Y en el Apple Watch, por ejemplo, el sistema aptico es una parte fundamental de la experiencia.
+
+17
+00:02:37.680 --> 00:02:45.680
+Apple lleva años trabajando precisamente para que esas vibraciones no parezcan simplemente eso, una vibración.
+
+18
+00:02:45.680 --> 00:02:57.680
+La compañía ha explicado en sus propias sesiones para desarrolladores que el Taptic Enjain está diseñado para producir frecuencias que podamos sentir físicamente
+
+19
+00:02:57.680 --> 00:03:02.680
+y que puede combinar diferentes intensidades, duraciones y formas de onda.
+
+20
+00:03:02.680 --> 00:03:07.680
+Es decir, no se trata simplemente de poner un pequeño motor a vibrar.
+
+21
+00:03:07.680 --> 00:03:13.680
+La idea es conseguir que el dispositivo pueda transmitir sensaciones diferentes.
+
+22
+00:03:13.680 --> 00:03:25.680
+Un toque, un impacto, una sensación más suave, otra, más precisa, incluso sin realizar lo que sentimos con lo que estamos viendo y escuchando.
+
+23
+00:03:25.680 --> 00:03:30.680
+Y ahí es donde entra en acción Taxion Technology.
+
+24
+00:03:30.680 --> 00:03:35.680
+La compañía es propietaria de dos patentes que están en el centro del litigio.
+
+25
+00:03:35.680 --> 00:03:45.680
+Además, están relacionadas con transductores táctiles capaces de producir vibraciones de baja frecuencia que pueden percibirse mediante el tacto.
+
+26
+00:03:45.680 --> 00:03:49.680
+O suera, ¿verdad? Y aquí tenemos uno de los dos puntos interesantes del caso.
+
+27
+00:03:49.680 --> 00:03:56.680
+Taxion no estaba diciendo simplemente que Apple había utilizado una patente sobre hacer vibrar un teléfono.
+
+28
+00:03:56.680 --> 00:04:08.680
+Las rey vindicaciones de las patentes son bastante más concretas y describen una arquitectura determinada para generar y controlar esas vibraciones.
+
+29
+00:04:08.680 --> 00:04:18.680
+Taxion demandó a Apple en 2021. Apple defendió que sus productos no infringían estas patentes y que además las propias patentes
+
+30
+00:04:18.680 --> 00:04:22.680
+no eran validas en los términos planteados por Taxion.
+
+31
+00:04:22.680 --> 00:04:29.680
+Dos años después, Apple consiguió inicialmente que un juez resolviera el caso de favor antes de llegar a juicio.
+
+32
+00:04:29.680 --> 00:04:32.680
+Pero el asunto amigos no terminó ahí.
+
+33
+00:04:32.680 --> 00:04:45.680
+En agosto del año pasado, en 2025, el Tribunal de Appelaciones del Circuito Federal de los Estados Unidos anuló aquella decisión y devolvió el caso para que continuara el procedimiento.
+
+34
+00:04:46.680 --> 00:05:00.680
+Y ahora sí, ahora hemos llevado a juicio y han jurado a considerado que Apple infringió las dos patentes y ha establecido una indemnización superior a los 5.700 millones de dólares.
+
+35
+00:05:00.680 --> 00:05:07.680
+Pero hay otro dato importante. El jurado no considero que la infracción hubiera sido deliberada.
+
+36
+00:05:07.680 --> 00:05:17.680
+Y eso es relevante, porque limita la posibilidad de que se puedan aplicar determinados daños adicionales por una conducta intencionada.
+
+37
+00:05:17.680 --> 00:05:22.680
+Y ahí Apple evidentemente no está de acuerdo con el resultado final.
+
+38
+00:05:22.680 --> 00:05:35.680
+La compañía ha dicho que considera que el veredicto y los daños concedidos no están respaldados por los hechos y mantiene que su taptik en shine es fundamentalmente diferente de la tecnología de Taxion.
+
+39
+00:05:36.680 --> 00:05:40.680
+Y sobre todo, Apple ha confirmado que va a recurrir.
+
+40
+00:05:41.680 --> 00:05:44.680
+Ahora bien, hay una pregunta bastante interesante.
+
+41
+00:05:44.680 --> 00:05:50.680
+¿Por qué una patenta relacionada con vibraciones puede generar una cantidad de dinero tan grande?
+
+42
+00:05:50.680 --> 00:05:53.680
+Porque no estamos hablando necesariamente de un único producto.
+
+43
+00:05:53.680 --> 00:06:03.680
+El litigio afecta la tecnología que incorpora en productos que Apple ha vendido a gran escala y la cantidad de daños estar relacionada con el alcance de la supuesta infracción
+
+44
+00:06:03.680 --> 00:06:06.680
+y con el volumen de productos afectados.
+
+45
+00:06:07.680 --> 00:06:17.680
+Por eso una tecnología aparentemente pequeña puede terminar generando una reclamación gigantesca cuando está integrada en millones y millones de dispositivos.
+
+46
+00:06:17.680 --> 00:06:23.680
+Y esta historia también sirve para recordar algo que muchas veces olvidamos cuando hablamos de tecnología.
+
+47
+00:06:23.680 --> 00:06:29.680
+Y es que un teléfono móvil no está compuesto únicamente por el procesador o las cábaras o la pantalla y la batería.
+
+48
+00:06:30.680 --> 00:06:35.680
+Hay cientos de pequeñas tecnologías que hacen posible que la experiencia final sea como es.
+
+49
+00:06:36.680 --> 00:06:43.680
+Y el taptikin jaín es precisamente una de esas tecnologías que probablemente sólo apreciamos cuando desaparece.
+
+50
+00:06:45.680 --> 00:06:48.680
+Y vamos a pasar a la segunda y última noticia del día de hoy.
+
+51
+00:06:48.680 --> 00:06:55.680
+Y es que aquí tenemos una conexión directa con algo que ya hemos contado en el manzana se enfrentadas número 339.
+
+52
+00:06:55.680 --> 00:07:06.680
+Si si el programa 10001 en la historia de manzana se enfrentadas y es que hablamos en aquel momento de las nuevas gafas de meta.
+
+53
+00:07:06.680 --> 00:07:13.680
+Porque si apel estaría explorando precisamente una de las ideas que vimos de en aquel producto.
+
+54
+00:07:13.680 --> 00:07:15.680
+Pero vamos por partes.
+
+55
+00:07:15.680 --> 00:07:22.680
+Después de Vision Pro una de las preguntas más repetidas ha sido cuando va a conseguir apel hacer unas gafas que pecen bastante menos.
+
+56
+00:07:23.680 --> 00:07:35.680
+Pues bueno el problema es evidente Vision Pro es un dispositivo tecnologicamente muy sofisticado, pero todo ese hardware está colocado delante en nuestra cara, pantallas, cámaras, sensores, procesamientos.
+
+57
+00:07:36.680 --> 00:07:43.680
+Menos la batería que en este caso es externa y todo eso pues tiene unas consecuencias físicas.
+
+58
+00:07:43.680 --> 00:07:53.680
+Apel llegó a trabajar en un proyecto conocido como Vision Air con nombre interno N100 que buscaba precisamente una versión más ligera de las mismas.
+
+59
+00:07:54.680 --> 00:08:03.680
+Ese proyecto quedó aparcado en otoño de 2025 cuando Apel trasladó a buena parte de su equipo al desarrollo de unas gafas inteligentes.
+
+60
+00:08:04.680 --> 00:08:10.680
+Pero parece que la idea como se comentó en manzanas enfrentadas no había desaparecido.
+
+61
+00:08:10.680 --> 00:08:21.680
+Ahora Apel estaría trabajando en otro proyecto, denominado internamente N24 y aquí viene lo interesante.
+
+62
+00:08:22.680 --> 00:08:38.680
+Apel no parece que el N24 sea necesariamente una versión barata de Vision Pro, podría convertirse en el sucesor de las actuales Vision, aunque Apel también estaría buscando reducir el precio.
+
+63
+00:08:38.680 --> 00:08:53.680
+Pero el proyecto todavía estaría bastante bastante verde, según la información publicada a partir de los datos de Mark Urban, Apel estaría estudiando no 1, no 2, no 3, sino 4 conceptos diferentes.
+
+64
+00:08:54.680 --> 00:09:05.680
+Y aquí tenemos que hacer una distinción importante porque sabemos que hay 4 conceptos, pero no conocemos públicamente las características de ninguno de los 4.
+
+65
+00:09:06.680 --> 00:09:13.680
+Si conocemos en cambio algunas de las direcciones que Apel estaría explorando y una de ellas es especialmente llamativa.
+
+66
+00:09:14.680 --> 00:09:25.680
+Apel estaría estudiando una arquitectura similar a la que acabamos de ver recientemente con las nuevas gafas de meta, sacar parte del procesamiento y la batería de las propias gafas.
+
+67
+00:09:25.680 --> 00:09:35.680
+Y colocarlo en un dispositivo externo, es decir, como meta utiliza un pequeño dispositivo externo que se encarga de parte del trabajo de procesamiento.
+
+68
+00:09:36.680 --> 00:09:45.680
+La idea tiene bastante sentido desde el punto de vista físico. Si eliminas peso de la cabeza, puedes conseguir unas gafas mucho más cómodas.
+
+69
+00:09:45.680 --> 00:09:55.680
+El hecho de sacar ciertas partes de la gafa y meterlas en ese dispositivo externo, pues parece que no tiene consenso interno dentro de Apel.
+
+70
+00:09:56.680 --> 00:10:05.680
+Según la información publicada, algunos ejecutivos preferían mantener un diseño más cercano al concepto actual de Vision Pro, y aquí pues aparece el segundo gran camino.
+
+71
+00:10:06.680 --> 00:10:10.680
+Apel estaría probando materiales diferentes para conseguir reducir el peso.
+
+72
+00:10:10.680 --> 00:10:23.680
+El diseño seguiría manteniendo esa forma general parecida a las actuales, pero se estudiaría materiales como el plástico, titánio y otros metales para encontrar una combinación que permitirá aligerar el dispositivo.
+
+73
+00:10:24.680 --> 00:10:34.680
+Y eso es importante porque cuánto hardware puedes colocarte delante de la cara de una persona antes de que el producto resulte incómodo, pues parece que Apel está intentando resolverlo y de varias maneras.
+
+74
+00:10:34.680 --> 00:10:50.680
+El calendario tampoco parece precisamente inmediato, estas en el 2024 estarían en una fase muy temprana y la información actual situa una posible llegada entre finales de 2021 y 2018 y principios de 2021.
+
+75
+00:10:50.680 --> 00:11:02.680
+De hecho, ni siquiera todo esto está garantizado, ya que John Ternos, el nuevo CEO, vería la Vision Pro actuales como un paso intermedio que como un producto para el gran público.
+
+76
+00:11:03.680 --> 00:11:08.680
+Y esto también nos dice algo porque Apel no parece estar tratando de resolver Vision Pro de un año para otro.
+
+77
+00:11:09.680 --> 00:11:17.680
+Está probando diferentes arquitecturas para averiguar cuál puede convertirse en el formato adecuado para la siguiente generación, si es que esa generación llega.
+
+78
+00:11:17.680 --> 00:11:23.680
+Apel cogió un ordenador extremadamente potente y lo convirtió en unas gafas.
+
+79
+00:11:24.680 --> 00:11:32.680
+Ahora parece estar explorando cómo reducir todo aquello, quizá hasta el punto de que parte del ordenador deje de estar dentro de esas gafas.
+
+80
+00:11:33.680 --> 00:11:46.680
+Y esto nos deja una pregunta para el futuro. ¿Será la próxima generación de Vision Pro realmente un visor o acabaremos teniendo unas gafas mucho más ligeras conectadas a otro dispositivo que se encargue del trabajo pesado?
+
+81
+00:11:47.680 --> 00:12:02.680
+Esto ha sido el manzana sin formadas del día de hoy y si os ha gustado el programa ya sabéis, podéis suscribiros, dejarnos una valoración, compartirlo con alguien, a quien interese Apel y la tecnología y, sobre todo, acompañarnos en esta nueva semana de 7-7.
+
+82
+00:12:03.680 --> 00:12:07.680
+Muchas gracias por seguir ahí, escuchándonos cada día.
+
