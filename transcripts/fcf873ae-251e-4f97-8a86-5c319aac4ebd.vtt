@@ -1,0 +1,362 @@
+WEBVTT - Manzanas Enfrentadas Transcripción Oficial
+
+1
+00:00:00.000 --> 00:00:22.840
+Muy buenas, yo soy William Rick, Mac para los amigos, si este es el Manzana
+
+2
+00:00:22.840 --> 00:00:33.440
+sin formadas 432 para el lunes 31 de agosto de 2026. Hoy vamos a hablar de dos noticias que
+
+3
+00:00:33.440 --> 00:00:38.920
+curiosamente tienen bastante más relación entre ellas de lo que se podría aparecer. Por un
+
+4
+00:00:38.920 --> 00:00:44.280
+lado resulta que a ver podría haber encontrado casi sin proponer solo uno de sus mayores éxitos
+
+5
+00:00:44.280 --> 00:00:49.400
+relacionados con la inteligencia artificial, porque mientras seguimos discutiendo sobre si apel
+
+6
+00:00:49.400 --> 00:00:55.440
+llega tarde o temprano a la inteligencia artificial algunas de las compañías más importantes del mundo
+
+7
+00:00:55.440 --> 00:01:02.440
+están comprando Mac, Mini y Mac Estudio como si fuera pan caliente. Y después hablaremos de otro
+
+8
+00:01:02.440 --> 00:01:09.320
+asunto que también tiene mucho a que ver con decisiones que apel tomó hace años y es que todavía
+
+9
+00:01:09.320 --> 00:01:15.960
+hoy siguen teniendo consecuencias. Un tribunal de california ha permitido que vuelva a ponerse marcha
+
+10
+00:01:15.960 --> 00:01:23.560
+una demanda relacionado con los antiguas políticas de apel frente a las reparaciones independientes.
+
+11
+00:01:27.640 --> 00:01:33.440
+Y empezamos con la primera noticia de hoy y es que durante los últimos años cuando hablábamos de
+
+12
+00:01:33.440 --> 00:01:39.760
+inteligencia artificial Pijarwar había un nombre que aparecía por encima de todos los demás en
+
+13
+00:01:39.760 --> 00:01:45.200
+vidia, pero están empezando a ocurrir algo bastante curioso en otro cemento completamente diferente,
+
+14
+00:01:45.200 --> 00:01:52.720
+el de la inteligencia artificial ejecutada de forma local. Y ahí apel podría estar encontrando una
+
+15
+00:01:52.720 --> 00:01:58.920
+posición mucho más fuerte de lo que parecía, porque según una investigación publicada por de
+
+16
+00:01:58.920 --> 00:02:04.480
+información los Mac Mini y Mac Estudio se están convirtiendo en máquinas especialmente populares
+
+17
+00:02:04.480 --> 00:02:11.560
+entre desarrolladores, laboratorios de inteligencia artificial y empresas que necesitan ejecutar modelos
+
+18
+00:02:11.560 --> 00:02:18.040
+de forma local. La clave no está únicamente en la potencia, está en la arquitectura de apel
+
+19
+00:02:18.040 --> 00:02:26.720
+silicon. En los Mac Actuales CPU, GPU y el Neuralin Zine comparten la misma memoria unificada. Esto
+
+20
+00:02:26.720 --> 00:02:32.960
+permite utilizar cantidad de enormes de memoria para ejecutar modelos de inteligencia artificial sin
+
+21
+00:02:32.960 --> 00:02:39.400
+la separación tradicional entre RAM del sistema y la memoria de vídeo. Y cuando hablamos de
+
+22
+00:02:39.400 --> 00:02:46.200
+modelos grandes, que necesitan cargar decenas o incluso cientos de Giga Bites en memoria,
+
+23
+00:02:46.200 --> 00:02:55.040
+esa arquitectura puede resultar especialmente interesante. El nuevo Mac Estudio con M5 Ultra podría
+
+24
+00:02:55.040 --> 00:03:02.440
+confiornarse con hasta 512 Giga Bites de memoria unificada y ofrece un ancho de banda de memoria de
+
+25
+00:03:02.440 --> 00:03:09.040
+hasta 1,2 terabytes por segundo. Apel también permite conectar varios Mac Estudio entre sí para
+
+26
+00:03:09.040 --> 00:03:15.680
+destruir determinadas cargas de inteligencia artificial, es decir, una empresa puede construir pequeños
+
+27
+00:03:15.680 --> 00:03:23.000
+clásteres de Mac para ejecutar modelos localmente, sin depender completamente de enormes centros de
+
+28
+00:03:23.000 --> 00:03:29.040
+datos externos. Pero la parte más llamativa llega cuando vemos quién está utilizando esas
+
+29
+00:03:29.040 --> 00:03:36.360
+máquinas. Según de Information, Opinion ahí habría comprado decenas de miles de Mac Mini y Mac
+
+30
+00:03:36.360 --> 00:03:43.400
+Estudio para trabajos relacionados con aprendizaje por refuerzo y agentes capaces de utilizar
+
+31
+00:03:43.400 --> 00:03:49.880
+ordenadores. Antrópid también estaría utilizando un admin y mediante Amazon Web Services. Y además,
+
+32
+00:03:50.280 --> 00:03:55.480
+están apareciendo empresas especializadas en ofrecer infraestructura de computación basada
+
+33
+00:03:55.480 --> 00:04:02.360
+directamente en hardware de Apple. ¿Y por qué en Mac Mini y Mac Estudio? Porque son pequeños,
+
+34
+00:04:02.360 --> 00:04:11.160
+silenciosos, energéticamente eficiente y pueden mantener cargas de trabajo durante muchas,
+
+35
+00:04:11.160 --> 00:04:17.320
+muchas horas. Y además ofrecen algo que en inteligencia artificial puede ser especialmente importante,
+
+36
+00:04:17.800 --> 00:04:24.040
+mucha memoria disponible en una máquina relativamente compacta. Y todo esto resulta especialmente
+
+37
+00:04:24.040 --> 00:04:29.560
+interesante porque Apple podría haber llegado a esta posición casi de forma accidental. Apple
+
+38
+00:04:29.560 --> 00:04:36.120
+silicon no ha nacido con chat gpt, la memoria unificada tampoco se diseñó pensando exclusivamente en
+
+39
+00:04:36.120 --> 00:04:43.000
+modelos de lenguaje, y el Mac Mini lleva existiendo muchos años. Pero la combinación de todas estas
+
+40
+00:04:43.000 --> 00:04:49.560
+decisiones técnicas ha terminado creando una plataforma que encaja sorprendentemente bien con una
+
+41
+00:04:49.560 --> 00:04:55.880
+necesidad que ahora está creciendo muchísimo. Y esto también demos a que la carrera de la inteligencia
+
+42
+00:04:55.880 --> 00:05:02.120
+artificial no consiste únicamente en tener el mejor modelo, también existe otra batalla, la de decidir
+
+43
+00:05:02.120 --> 00:05:08.920
+dónde se ejecuta esa inteligencia artificial en la nube, en nuestros teléfonos o en nuestros ordenadores,
+
+44
+00:05:09.000 --> 00:05:15.640
+o incluso probablemente en una combinación de todos ellos. Apple todavía tiene muchísimo que
+
+45
+00:05:15.640 --> 00:05:21.320
+demostrar con Siri, Apple Inteligenci sus propios modelos, pero puede que haya encontrado otra
+
+46
+00:05:21.320 --> 00:05:26.520
+día completamente distinta para entrar en esta carrera, convertirse en uno de los mejores lugares
+
+47
+00:05:26.520 --> 00:05:34.760
+donde otros se ejecuten su inteligencia artificial. Y pasamos a la segunda y última noticia del día de hoy,
+
+48
+00:05:34.840 --> 00:05:40.040
+es que un tribunal de apelaciones de California ha reactivado una demanda contra Apple relacionada
+
+49
+00:05:40.040 --> 00:05:46.200
+con sus antiguas políticas frente a las reparaciones independientes. Pero antes de seguir una
+
+50
+00:05:46.200 --> 00:05:52.040
+aclaración importante, Apple no ha sido declarada culpable, lo que ha decidido el tribunal es que los
+
+51
+00:05:52.040 --> 00:05:59.240
+demandantes han presentado argumentos suficientes para que parte del caso pueda seguir adelante.
+
+52
+00:05:59.320 --> 00:06:05.720
+La historia comenzó en 2021, dos usuarios rompieron las pantallas de sus respectivos
+
+53
+00:06:05.720 --> 00:06:12.360
+iPhone y aseguraron que empleados de Apple les indicaron que reparar sus dispositivos fuera de Apple
+
+54
+00:06:12.360 --> 00:06:17.480
+podía afectar a la garantía. Los demandantes sostienen que la compañía de
+
+55
+00:06:17.480 --> 00:06:24.120
+Cupertino había creado durante años diferentes barreras para dificultar las reparaciones independientes,
+
+56
+00:06:24.120 --> 00:06:31.400
+entre ellas acceso limitado a piezas, herramientas, documentación técnica y determinados sistemas
+
+57
+00:06:31.400 --> 00:06:40.280
+de software necesarios para completar algunas reparaciones. Según su argumento, estas restricciones reducían
+
+58
+00:06:40.280 --> 00:06:46.920
+la competencia y permitían a Apple cobrar precios más elevados. Inicialmente un tribunal inferior
+
+59
+00:06:46.920 --> 00:06:52.280
+desestimó buena parte de todo este caso, pero ahora tres jueces del tribunal de apelaciones de
+
+60
+00:06:52.280 --> 00:06:58.760
+California ha decidido que las reclamaciones relacionadas con competencia desleal pueden continuar.
+
+61
+00:06:58.760 --> 00:07:05.160
+El caso vuelve por tanto al tribunal inferior. Hay otro elemento interesante a todo esto, los demandantes
+
+62
+00:07:05.160 --> 00:07:12.600
+también intentaron apoyarse en la Magnusón Noz Guarantee-A. Es una ley federal estadounidense que
+
+63
+00:07:12.600 --> 00:07:19.960
+limita determinadas prácticas relacionadas con las garantías. Pero en esta parte concreta, el
+
+64
+00:07:19.960 --> 00:07:26.840
+tribunal considera que las acusaciones no estaban suficientemente fundamentadas. Así que el núcleo
+
+65
+00:07:26.840 --> 00:07:33.160
+del caso continúa principalmente bajo a legislación de California. Y aquí aparece la gran para doja.
+
+66
+00:07:33.160 --> 00:07:40.600
+La apel de 2026 es bastante diferente a la apel de 2021 en materia de reparaciones. Oye,
+
+67
+00:07:40.600 --> 00:07:48.360
+existe el Serf Service Repair. Apple vende determinadas piezas públicas manuales, ofrece herramientas y ha
+
+68
+00:07:48.360 --> 00:07:54.440
+ampliado sus programas destinados a talleres independientes. Además, diferentes estados han aprobado
+
+69
+00:07:54.440 --> 00:08:01.080
+leyes del derecho a reparar. Esto no significa que Apple haya abrazado completamente esta filosofía.
+
+70
+00:08:01.080 --> 00:08:07.720
+No, no la he hecho. Sigue existiendo debates sobre precios, disponibilidad de piezas y el nivel de control
+
+71
+00:08:07.720 --> 00:08:14.360
+que mantiene sobre determinados procesos, pero el camino respecto hace unos años es evidente. Y ahí
+
+72
+00:08:14.840 --> 00:08:21.400
+está lo interesante de esta demanda. No habla únicamente de dos pantallas rotas en 2021, habla de una
+
+73
+00:08:21.400 --> 00:08:28.040
+cuestión mucho más amplia. ¿Quién controló un producto después de venderlo? El fabricante, el propietario,
+
+74
+00:08:28.040 --> 00:08:35.000
+hasta que punto puede una compañía decidir quién puede reparar un dispositivo que ya hemos comprado.
+
+75
+00:08:35.000 --> 00:08:40.760
+Durante años Apple defendió un ecosistema extremadamente controlado, pero la presión regulatoria
+
+76
+00:08:40.920 --> 00:08:47.080
+las críticas de consumidores y nuevas leyes del derecho a reparar han obligado a cambiar este
+
+77
+00:08:47.080 --> 00:08:55.720
+modelo. Y ahora algunas de estas decisiones tiguas siguen teniendo consecuencias. Porque esta historia
+
+78
+00:08:55.720 --> 00:09:01.880
+demuestra algo bastante sencillo, las políticas de una compañía pueden y deben cambiar si
+
+79
+00:09:01.880 --> 00:09:09.400
+me permitís añadir. Pero esto no significa que desaparezcan automáticamente las consecuencias de lo
+
+80
+00:09:09.400 --> 00:09:17.160
+que se hizo antes. Y hasta aquí el mazanas informadas de hoy, dos historias aparentemente muy diferentes,
+
+81
+00:09:17.160 --> 00:09:22.040
+pero que en el fondo nos cuentan algo bastante parecido sobre Apple. La primera nos demuestra que
+
+82
+00:09:22.040 --> 00:09:27.880
+determinadas decisiones tecnológicas pueden acabar teniendo consecuencias completamente inesperadas. Y
+
+83
+00:09:27.880 --> 00:09:33.880
+la segunda nos demuestra justo lo contrario, que determinadas decisiones en empresariales también pueden
+
+84
+00:09:33.880 --> 00:09:39.400
+volver años después, cuando cambia la sociedad, cuando cambia la regulación y cambian las
+
+85
+00:09:39.400 --> 00:09:45.880
+expectativas de los consumidores. Y a lo sabéis, si os ha gustado este episodio, compartirlo con alguien
+
+86
+00:09:45.880 --> 00:09:51.800
+a quien también le interesa el mundo Apple y la tecnología. Nos ayuda muchísimo a que mazanas
+
+87
+00:09:51.800 --> 00:09:59.080
+enfrentadas siga creciendo y a quien muchos descubran estos mazanas informadas y los demás programas
+
+88
+00:09:59.080 --> 00:10:03.480
+de nuestro equipo. Y como siempre, podéis seguirnos y participar con nosotros en
+
+89
+00:10:03.480 --> 00:10:10.840
+Oye Blue Sky, Twitter, Mastodon, Threats, TikTok y en nuestro grupo de Telegram. Yo soy Alberge
+
+90
+00:10:10.840 --> 00:10:18.680
+Ambrick, Mac para los amigos y nos escuchamos en el próximo mazanas informadas, poner un Mac en buscrabido.
+
