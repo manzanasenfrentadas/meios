@@ -1,0 +1,678 @@
+WEBVTT - Manzanas Enfrentadas Transcripción Oficial
+
+1
+00:00:00.000 --> 00:00:15.880
+Bienvenidos a Manzanas y Formadas, hoy es jueves 26 de noviembre y este es nuestro episodio
+
+2
+00:00:15.880 --> 00:00:20.840
+número 495. Llegamos puntuales a nuestra citariaria para cumplir con nuestro compromiso
+
+3
+00:00:20.840 --> 00:00:26.080
+717 con un montón de navedades sobre la compañía de cobertino. Ponemos cómodos que
+
+4
+00:00:26.080 --> 00:00:32.240
+empezamos. Anthropic ha presentado oficialmente una nueva función en fase beta para la aplicación
+
+5
+00:00:32.240 --> 00:00:36.760
+de cloud en macos y windows, que permite transformar cualquier artefacto generado por
+
+6
+00:00:36.760 --> 00:00:41.040
+el modelo en una aplicación independiente de escritorio con solo pulsar un botón.
+
+7
+00:00:41.040 --> 00:00:45.720
+Hasta ahora, los artefactos, tales como paneles interactivos, herramientas de código, editores
+
+8
+00:00:45.720 --> 00:00:50.640
+visuales o documentos dinámicos, vivían confinados en la barra lateral del chat. Con esta
+
+9
+00:00:50.640 --> 00:00:55.960
+navedad, disponible en el menú de compartir, mediante la opción instalar como app, el contenido
+
+10
+00:00:55.960 --> 00:01:00.880
+se desprenda de la interfaz principal y se ejecutan su propia ventana dedicada con su correspondiente
+
+11
+00:01:00.880 --> 00:01:05.120
+icono en el doc de sistema y la posibilidad de añadir accesos directos en la barra de menús.
+
+12
+00:01:05.120 --> 00:01:09.400
+Estas aplicaciones no requieren empaquetado ni firma tradicional de software, pero incorporan
+
+13
+00:01:09.400 --> 00:01:13.320
+un sistema de permisos configurables. Un modo estándar limitado a las capacidades del
+
+14
+00:01:13.320 --> 00:01:17.640
+negador, un nivel intermedio para emitir notificaciones a ventanas siempre visibles y un
+
+15
+00:01:17.640 --> 00:01:22.280
+exceso completo a sistema que permite leer, modificar o eliminar archivos y ejecutar
+
+16
+00:01:22.280 --> 00:01:27.360
+procesos locales. Además, las herramientas se sincronizan y actualizan de forma automática
+
+17
+00:01:27.360 --> 00:01:30.960
+cuando se edita al artefacto original. Aunque la función está disponible para todos los
+
+18
+00:01:30.960 --> 00:01:35.120
+planes de cloud, Anthropic ha advertido de que cualquier consulto interacción que realiza
+
+19
+00:01:35.120 --> 00:01:39.400
+la aplicación generada consumir a cuota de los límites de uso del usuario.
+
+20
+00:01:39.400 --> 00:01:47.400
+Meta ha publicado de manera oficial en la app store la versión nativa de threads para iPad,
+
+21
+00:01:47.400 --> 00:01:52.120
+aunque poco se nota. El responsable de diseño de la rata forma, Crystal Fairclay,
+
+22
+00:01:52.120 --> 00:01:55.680
+había anticipado a principios de semana que el despliegue era inminente, pelizando el
+
+23
+00:01:55.680 --> 00:02:00.640
+lanzamiento de una primera versión funcional antes que demorarla con interfaces complejas.
+
+24
+00:02:00.640 --> 00:02:05.040
+Esta entregue inicial ofrece una experiencia limpia, basada en una columna central única,
+
+25
+00:02:05.040 --> 00:02:10.400
+incluso cuando utiliza el iPad e imposición horizontal. Resulta lamentable la falta inicial
+
+26
+00:02:10.400 --> 00:02:14.520
+de un diseño de múltiples columnas que aproveche mejor las pantallas de mayor tamaño,
+
+27
+00:02:14.520 --> 00:02:18.880
+aunque desde el equipo de desarrollo han confirmado que incorporarán vistas avanzadas
+
+28
+00:02:18.880 --> 00:02:23.720
+en próximas revisiones, sumando además el despliegue progresivo de etiquetas financieras
+
+29
+00:02:23.720 --> 00:02:28.960
+para seguir la actualidad brusátil, justo lo que todos pedimos a threads.
+
+30
+00:02:28.960 --> 00:02:33.200
+Una coalición de organizaciones siempre es tecnológicas encabezada por Open Web
+
+31
+00:02:33.200 --> 00:02:37.200
+Pack Bogacy, y con el respaldo de firmas como Mozilla and Shopify,
+
+32
+00:02:37.200 --> 00:02:41.520
+ha remitido una carta formal a la comisión europea, instando a abrir un procedimiento
+
+33
+00:02:41.520 --> 00:02:45.760
+sancionador contra Apple por vulnerar la ley de mercados digitales.
+
+34
+00:02:45.760 --> 00:02:51.520
+Las organizaciones firmantes que representan a un colectivo de entre 45 y 55.000 empresas
+
+35
+00:02:51.520 --> 00:02:55.880
+de la Unión Europea denuncian que, a pesar de que apelo autorizó formalmente,
+
+36
+00:02:55.880 --> 00:03:00.880
+el uso de motores de navegación alternativos a WebKit a partir de iOS 17.5,
+
+37
+00:03:00.880 --> 00:03:04.720
+las trabas contractuales técnicas y comerciales impuestas por copertino
+
+38
+00:03:04.720 --> 00:03:07.440
+hacen que la transición sea inviable en la práctica.
+
+39
+00:03:07.440 --> 00:03:12.200
+Como resultado, ningún desarrollador de navegadores ha dado el paso de emigrar a sus usuarios
+
+40
+00:03:12.200 --> 00:03:14.760
+existentes a un motor propio fuera de WebKit.
+
+41
+00:03:14.760 --> 00:03:19.040
+En documentos os tiene que estas barreras perpetúan la dependencia forzosa del App Store
+
+42
+00:03:19.040 --> 00:03:23.440
+para interactuar con los clientes y calcula que una apertura real de las aplicaciones web
+
+43
+00:03:23.440 --> 00:03:28.720
+permitiría a las empresas europeas ahorrar cerca de 11.000 millones de euros anuales
+
+44
+00:03:28.720 --> 00:03:33.200
+en costes del desarrollo y más de 1.300 millones de euros en comisiones de la tienda
+
+45
+00:03:33.200 --> 00:03:34.200
+de Apple.
+
+46
+00:03:34.200 --> 00:03:38.320
+La recogida de firmas continuará abiertas al próximo 3 de diciembre, antes de que los
+
+47
+00:03:38.320 --> 00:03:43.280
+reguladores de Bruselas determinen las siguientes acciones regales.
+
+48
+00:03:43.280 --> 00:03:47.800
+Mark Urban, en su espacio de consultas, ha aclarado la hoja de ruta que Apple prepara para
+
+49
+00:03:47.800 --> 00:03:49.800
+su ordenador más popular.
+
+50
+00:03:49.800 --> 00:03:54.840
+Asegura que Apple tiene programado para primavera de 2027 el lanzamiento de nuevas versiones
+
+51
+00:03:54.840 --> 00:03:57.800
+de 13 y 15 pulgadas del MacBook Air.
+
+52
+00:03:57.800 --> 00:04:02.600
+La actualización se mantendrá como una renovación continuista centrada exclusivamente en la incorporación
+
+53
+00:04:02.600 --> 00:04:07.560
+del procesador M6 acompañando en el calendario comercial a la segunda generación del MacBook
+
+54
+00:04:07.560 --> 00:04:08.560
+Neo.
+
+55
+00:04:08.560 --> 00:04:14.560
+Sin embargo, Kurman anticipa que el Chasis Actual Univó Diplano, estrenado en 2022, está
+
+56
+00:04:14.560 --> 00:04:16.360
+llegando a su final de ciclo.
+
+57
+00:04:16.360 --> 00:04:20.400
+Apple ya estaría trabajando en un rediseño de gran calado para el MacBook Air, previsto
+
+58
+00:04:20.400 --> 00:04:27.280
+para entre finales de 2027 y 2028, donde la esperada transición para el ESOLET sería
+
+59
+00:04:27.280 --> 00:04:30.640
+uno de los grandes argumentos para diferenciarlo.
+
+60
+00:04:30.640 --> 00:04:35.360
+Kurman también reveló que Apple mantiene sus laboratorios internos, prototipos funcionales
+
+61
+00:04:35.360 --> 00:04:40.880
+de iPad ejecutando macos completo gracias a la base común de Apple Silicon, aunque descartó
+
+62
+00:04:40.880 --> 00:04:46.040
+que la compañía vaya a comercializarlo para no palivarizar ventas ni complicar su posición
+
+63
+00:04:46.040 --> 00:04:48.880
+regulatoria por sistemas operativos en Europa.
+
+64
+00:04:48.880 --> 00:04:53.480
+Asimismo, detalló que el proyecto de un iPad plegable de unas 20 pulgadas sin pantalla
+
+65
+00:04:53.480 --> 00:04:58.560
+exterior, sigue sufriendo retrasos debido a su elevado coste de producción y a la dificultad
+
+66
+00:04:58.560 --> 00:05:04.040
+para definir si debe gobernarse con iPad Os o macos, aplazando su hipotético de boot
+
+67
+00:05:04.040 --> 00:05:07.400
+más allá de 2028.
+
+68
+00:05:07.400 --> 00:05:11.660
+Según los informes de Bloomberg, Apple ha realizado despido, selectivos en el equipo de
+
+69
+00:05:11.660 --> 00:05:16.680
+Siri, afectando específicamente a los ingenieros vinculados a la arquitectura informática antigua
+
+70
+00:05:16.680 --> 00:05:21.320
+y preservando intacto al personal dedicado a los nuevos sistemas de ella.
+
+71
+00:05:21.320 --> 00:05:25.400
+Desde este ajuste, la preocupación interna sobre el ritmo de desarrollo espalbable.
+
+72
+00:05:25.400 --> 00:05:29.520
+La organización digital software liderada por Craig Federilla mantiene un ferrocalendario
+
+73
+00:05:29.520 --> 00:05:34.040
+de producción escronado en el clascarterístico principales de las encualizaciones del sistema
+
+74
+00:05:34.040 --> 00:05:37.680
+quedan fijadas prácticamente con 12 meses de enteración.
+
+75
+00:05:37.680 --> 00:05:42.480
+Esta rígida de su operativa dificulta responder con agilidad arrivales como OpenAI, Google
+
+76
+00:05:42.480 --> 00:05:46.920
+o Anthropic, con los modelos y capacidades evolucionan semana a semana.
+
+77
+00:05:46.920 --> 00:05:51.200
+Gurman, advierte en su análisis de que Apple se enfrenta a una desventaja de más de
+
+78
+00:05:51.200 --> 00:05:55.000
+un año en la emera gente guerra de los agentes autónomos de ella, capaces de gestionar
+
+79
+00:05:55.000 --> 00:05:57.160
+tareas completas en segundo plano.
+
+80
+00:05:57.160 --> 00:06:00.760
+Aunque Apple ha publicado ofertas de empleo para ejecutar talento que lidera el desarrollo
+
+81
+00:06:00.760 --> 00:06:05.160
+de un agente capaz de interactuar con un ordenador de forma humana, no se espera su llegada hasta
+
+82
+00:06:05.160 --> 00:06:07.120
+finales de 2017.
+
+83
+00:06:07.120 --> 00:06:10.880
+Confían en su solida reputación en materia de privacidad y en la integración profunda
+
+84
+00:06:10.880 --> 00:06:13.960
+con el hardware para competir cuando la herramienta esté lista.
+
+85
+00:06:13.960 --> 00:06:18.520
+Bien, corre en el riesgo de que los usuarios ya han consolidado sus rutinas y datos en
+
+86
+00:06:18.520 --> 00:06:19.760
+plataformas competidoras.
+
+87
+00:06:19.760 --> 00:06:25.520
+Aunque ya llevo unos cuantos diez publicados, me gustaría recomendaros ver el completo
+
+88
+00:06:25.520 --> 00:06:30.800
+debate protagonizado por Marc Gurman y la reputala periodista tecnológica Johanna Stern
+
+89
+00:06:30.800 --> 00:06:33.960
+en una edición especial del videopodscas Poweron.
+
+90
+00:06:33.960 --> 00:06:37.360
+Ambos analistas coincidieron en una premisa contundente.
+
+91
+00:06:37.360 --> 00:06:41.960
+Apple sigue demostrando una maestría indiscutible en la ingeniería de hardware, pero su software
+
+92
+00:06:41.960 --> 00:06:45.960
+está perdiendo la ventaja competitiva y la fiabilidad que históricamente definieron
+
+93
+00:06:45.960 --> 00:06:46.960
+a la marca.
+
+94
+00:06:46.960 --> 00:06:51.040
+Durante la conversación, Gurman elevó su estimación sobre el retraso de Apple en
+
+95
+00:06:51.040 --> 00:06:55.920
+inteligente artificial, señalando que tras convivir con los agentes autónomos de la competencia,
+
+96
+00:06:55.920 --> 00:07:00.760
+la distancia de cupartino respecto a los líderes del sector supera ya los cinco años.
+
+97
+00:07:00.760 --> 00:07:04.920
+Para ambos analistas, la integración del modelo Gemini y de Google, como base de partes
+
+98
+00:07:04.920 --> 00:07:10.000
+clave de Apple Intel y Siri AI, evidencia las canencias del desarrollo interno tras el fallido
+
+99
+00:07:10.000 --> 00:07:13.360
+de boot de la primera versión en 2024.
+
+100
+00:07:13.360 --> 00:07:18.440
+Por su parte, Johanna Stern expuso una crítica muy gráfica basada en su uso diario.
+
+101
+00:07:18.440 --> 00:07:23.120
+Apple intenta vender un asistente inteligente sofisticado sin haber resuelto primero los
+
+102
+00:07:23.120 --> 00:07:24.920
+problemas más elementales.
+
+103
+00:07:24.920 --> 00:07:29.000
+La periodista relato fallos constantes en el reconocimiento de voz, un dictado cada vez
+
+104
+00:07:29.000 --> 00:07:33.960
+más erratico, el conflicto diario de dispositivos cuando una ordenada al teléfono activa
+
+105
+00:07:33.960 --> 00:07:38.720
+al jombo en otra habitación y la incapacidad de Siri para interpretar información contextual
+
+106
+00:07:38.720 --> 00:07:43.400
+que ya está presente en pantalla, como necesitar pedir manualmente fecha y lugar para
+
+107
+00:07:43.400 --> 00:07:46.400
+agendar una cita recibida por Apple Maps.
+
+108
+00:07:46.400 --> 00:07:51.440
+Amos periodistas destacaron como las deficiencias de software están frenando directamente el lanzamiento
+
+109
+00:07:51.440 --> 00:07:53.160
+de nuevas líneas de hardware.
+
+110
+00:07:53.160 --> 00:07:57.840
+El centro de control on view acumuló dos años de retraso esperando los cimientos de software
+
+111
+00:07:57.840 --> 00:08:02.240
+mientras que productos futuros como los Airpods con cámaras y las gafas inteligentes se han
+
+112
+00:08:02.240 --> 00:08:07.080
+pospuesto debido a que las funciones de control de aplicaciones probos aún no están maduras.
+
+113
+00:08:07.080 --> 00:08:11.400
+Ambien debatieron sobre el estilo de liderazgo de crifes de Rigi y la necesidad de modernizar
+
+114
+00:08:11.400 --> 00:08:15.280
+una organización concebida hace dos décadas alrededor de la iPhone.
+
+115
+00:08:15.280 --> 00:08:20.520
+En ese sentido señalaron que el nuevo consejero delegado John Ternus ha exigido en reuniones
+
+116
+00:08:20.520 --> 00:08:25.000
+aportas cerradas a acelerar el ritmo y trabajar en un agente de ella propio.
+
+117
+00:08:25.000 --> 00:08:28.920
+Finalmente el debate dejó sobre la mesa una profunda reflexión.
+
+118
+00:08:28.920 --> 00:08:32.720
+Ante un futuro en el que los agentes autónomos sustituyan a la interacción manual con las
+
+119
+00:08:32.720 --> 00:08:37.160
+aplicaciones. Avel podría haber se obligada a reconstruiríos desde cero para la era
+
+120
+00:08:37.160 --> 00:08:41.800
+de la inteligencia artificial en lugar de limitarse a superponer capas sobre una arquitectura
+
+121
+00:08:41.800 --> 00:08:45.880
+pensada para otra época.
+
+122
+00:08:45.880 --> 00:08:51.480
+Avel ha estrenado una divertida pieza publicitaria titulada iPhone 18 Pro Max, la mayor duración
+
+123
+00:08:51.480 --> 00:08:55.640
+de batería en un iPhone, con la que busca destacar con humor la gran autonomía de
+
+124
+00:08:55.640 --> 00:08:59.440
+su book insignia. El anuncio está protagonizado por un pequeño
+
+125
+00:08:59.440 --> 00:09:03.640
+ciclope de juguete que cobra vida y queda fascinado por el teléfono.
+
+126
+00:09:03.640 --> 00:09:08.360
+Durante toda la jornada y a no hablar con gran noche, el juguete es prime el iPhone 18 Pro Max
+
+127
+00:09:08.360 --> 00:09:13.400
+realizando fotos, jugando a videojuegos con alta carga gráfica, viendo contenidos inestrimimos,
+
+128
+00:09:13.400 --> 00:09:18.600
+escuchando música, haciendo llamadas y utilizando la la internet trasera para apretar sombras
+
+129
+00:09:18.600 --> 00:09:20.200
+chinescas en la pared.
+
+130
+00:09:20.200 --> 00:09:24.400
+El desenlace de la historia llega cuando le enganzable juguete, agota por completo sus
+
+131
+00:09:24.400 --> 00:09:29.240
+propias baterías y se desploma profundamente dormido sobre la mesa mientras que la pantalla
+
+132
+00:09:29.240 --> 00:09:34.640
+del iPhone 18 Pro Max se entiende mostrando que todavía conserva el 50% de la carga
+
+133
+00:09:34.640 --> 00:09:35.640
+restante.
+
+134
+00:09:35.640 --> 00:09:39.600
+Seguro que a más de uno le ha pasado lo mismo, pero leyendo en la cama y con el iPhone
+
+135
+00:09:39.600 --> 00:09:43.800
+golpeándose contra los morros. Eso sí, ahora no vamos a discutir si es más resistente
+
+136
+00:09:43.800 --> 00:09:47.440
+el cerámixil o les malte de los dientes, que ambas cosas nos pueden salir muy caras
+
+137
+00:09:47.440 --> 00:09:55.360
+y romping.
+
+138
+00:09:55.360 --> 00:09:59.320
+Ahora toca hablar de Apple TV y no puedo dejar de recordar que esta semana en Estados
+
+139
+00:09:59.320 --> 00:10:03.480
+Unidos celebran el día en la acción de gracia si el Black Friday. Por que lo digo,
+
+140
+00:10:03.480 --> 00:10:07.320
+pues porque adelantaron los estrenos de la semana del viernes al miércoles, por lo que
+
+141
+00:10:07.320 --> 00:10:13.760
+ya podemos ver serios como nocturno y 12-12-12, así como la nueva gran apuesta de Apple TV,
+
+142
+00:10:13.760 --> 00:10:18.920
+la película de Chris Pratt titulada El Camino del Pequeño Guerrero, que aspira a convertirse
+
+143
+00:10:18.920 --> 00:10:23.080
+en el caratequí de una nueva generación, aunque vez de promover las artes marciales
+
+144
+00:10:23.080 --> 00:10:26.200
+se instruye a un niño con un instrumento militar.
+
+145
+00:10:26.200 --> 00:10:30.880
+Parece un despropósito solo apto para Yankees, estáis avisados. Aparte, tenemos como
+
+146
+00:10:30.880 --> 00:10:35.440
+gran noticia de la semana la renovación oficial de Ted Lasso para una quinta temporada,
+
+147
+00:10:35.440 --> 00:10:40.360
+tras el éxito de su cuarta entrega, Apple TV ha confirmado que la multipremiada comedia
+
+148
+00:10:40.360 --> 00:10:44.720
+continuará su andadura, incluso hay voces que apuntan a que podrían haber negociado
+
+149
+00:10:44.720 --> 00:10:48.960
+la renovación por más de una temporada. También iniciaron la promoción del evento
+
+150
+00:10:48.960 --> 00:10:54.320
+documental de cuatro episodios Timberlake, dirigido por el ganador de los car Fischer Stevens,
+
+151
+00:10:54.320 --> 00:10:58.760
+la producción recorrerá tres décadas de la territorio profesional y personal de la estrella
+
+152
+00:10:58.760 --> 00:11:03.280
+del pop Justin Timberlake mediante entrevistas exclusivas y amundantes material de archivo
+
+153
+00:11:03.280 --> 00:11:08.320
+inelito. Se estrenará el viernes, entre diciembre, con los dos primeros capítulos seguidos
+
+154
+00:11:08.320 --> 00:11:14.240
+una entrega al 18 de diciembre y el desenlace el miércoles 23 de diciembre. Para concluir,
+
+155
+00:11:14.240 --> 00:11:19.160
+a Apple TV desveló las primeras imágenes y la fecha de estreno de la segunda temporada
+
+156
+00:11:19.160 --> 00:11:24.120
+de la seriantológica presunto inocente, que debutará el viernes de 19 de febrero de
+
+157
+00:11:24.120 --> 00:11:27.760
+2017. La nueva trama judicial comandada nuevamente
+
+158
+00:11:27.760 --> 00:11:34.640
+por David Ikeli y Jay-Abrans adaptó la novela Disession of the Murder de Joe Murray, y estará
+
+159
+00:11:34.640 --> 00:11:40.160
+protagonizada por Rachel Bronahan y Matthew Rhys, quienes interpretan a dos letrados rivales
+
+160
+00:11:40.160 --> 00:11:44.640
+cuyos enfrentamientos en los tribunales ponen en jaque a su propio matrimonio, o sea, que
+
+161
+00:11:44.640 --> 00:11:49.200
+no se trata de una continuación directa de la primera temporada protagonizada por Jay-Abrans.
+
+162
+00:11:49.200 --> 00:11:56.600
+Y así llegamos a la final de nuestro episodio 495 de manzales informadas. Muchísimas gracias
+
+163
+00:11:56.600 --> 00:12:01.160
+a todos para acompañarnos un jueves más. Si habéis disfrutado del programa os agradecemos
+
+164
+00:12:01.160 --> 00:12:05.720
+que lo compartáis como otros apasionados a la tecnología y que nos dejéis una evolución
+
+165
+00:12:05.720 --> 00:12:08.600
+positiva en nuestro reprutor de podcast favorito.
+
+166
+00:12:08.600 --> 00:12:12.320
+Cabe podéis pasaros por nuestro canal de Telegram para comentar lo que os parecen los
+
+167
+00:12:12.320 --> 00:12:16.640
+temas que hoy tratamos. No olvidéis que mañana tendremos otro episodio de manzales
+
+168
+00:12:16.640 --> 00:12:21.720
+informadas a la sísla madrugada y a partir de la 11 de la noche os esperaremos en otro
+
+169
+00:12:21.720 --> 00:12:24.800
+directo de mantalas enfrentadas. Lo tenemos.
+
